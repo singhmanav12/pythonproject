@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "name": "India Military Bases",
+    "description": "Major Indian military installations including air bases, naval stations, and army headquarters",
+    "last_updated": "2025-01-15",
+    "source": "Open source intelligence"
+  },
+  "air_force_bases": [
+    {
+      "name": "Hindon Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [28.6986, 77.4139],
+      "state": "Uttar Pradesh",
+      "category": "critical",
+      "note": "Largest air base in Asia, C-17 Globemaster III fleet"
+    },
+    {
+      "name": "Ambala Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [30.3761, 76.816],
+      "state": "Haryana",
+      "category": "critical",
+      "note": "Rafale fighter base, near Pakistan border"
+    },
+    {
+      "name": "Pathankot Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [32.2336, 75.6341],
+      "state": "Punjab",
+      "category": "critical",
+      "note": "Forward base, Kashmir operations"
+    },
+    {
+      "name": "Srinagar Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [33.9871, 74.7739],
+      "state": "Jammu & Kashmir",
+      "category": "critical",
+      "note": "Critical for Ladakh sector operations"
+    },
+    {
+      "name": "Leh Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [34.1358, 77.5464],
+      "state": "Ladakh",
+      "category": "critical",
+      "note": "World's highest airfield, China border"
+    },
+    {
+      "name": "Thoise Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [35.0111, 77.0531],
+      "state": "Ladakh",
+      "category": "critical",
+      "note": "Strategic base near Siachen Glacier"
+    },
+    {
+      "name": "Hasimara Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [26.6867, 89.3706],
+      "state": "West Bengal",
+      "category": "critical",
+      "note": "Rafale base, Doklam sector proximity"
+    },
+    {
+      "name": "Tezpur Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [26.7131, 92.7861],
+      "state": "Assam",
+      "category": "critical",
+      "note": "Eastern Air Command, China border"
+    },
+    {
+      "name": "Jorhat Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [26.7315, 94.1746],
+      "state": "Assam",
+      "category": "critical",
+      "note": "Advanced Landing Ground capabilities"
+    },
+    {
+      "name": "Chabua Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [27.4622, 95.1181],
+      "state": "Assam",
+      "category": "high",
+      "note": "Revitalized base, LAC operations"
+    },
+    {
+      "name": "Nyoma Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [33.2, 78.65],
+      "state": "Ladakh",
+      "category": "high",
+      "note": "New advanced landing ground"
+    },
+    {
+      "name": "Suratgarh Air Base",
+      "type": "air_force",
+      "branch": "IAF",
+      "coords": [29.3872, 73.9003],
+      "state": "Rajasthan",
+      "category": "high",
+      "note": "Western sector, Pakistan border"
+    }
+  ],
+  "naval_bases": [
+    {
+      "name": "INS Hansa",
+      "type": "naval",
+      "branch": "IN",
+      "coords": [15.3808, 73.8314],
+      "state": "Goa",
+      "category": "critical",
+      "note": "Naval aviation hub, MiG-29K"
+    },
+    {
+      "name": "INS Vikramaditya Base",
+      "type": "naval",
+      "branch": "IN",
+      "coords": [14.8667, 74.2167],
+      "state": "Karnataka",
+      "category": "critical",
+      "note": "Aircraft carrier home port"
+    },
+    {
+      "name": "INS Kochi",
+      "type": "naval",
+      "branch": "IN",
+      "coords": [9.9776, 76.2671],
+      "state": "Kerala",
+      "category": "high",
+      "note": "Naval base, Southern Command"
+    },
+    {
+      "name": "INS Dega",
+      "type": "naval",
+      "branch": "IN",
+      "coords": [17.7224, 83.2283],
+      "state": "Andhra Pradesh",
+      "category": "high",
+      "note": "Naval air station, Visakhapatnam"
+    },
+    {
+      "name": "INS Kadamba",
+      "type": "naval",
+      "branch": "IN",
+      "coords": [14.8167, 74.1167],
+      "state": "Karnataka",
+      "category": "critical",
+      "note": "Strategic naval base, Karwar"
+    },
+    {
+      "name": "INS Rajali",
+      "type": "naval",
+      "branch": "IN",
+      "coords": [12.96, 79.85],
+      "state": "Tamil Nadu",
+      "category": "high",
+      "note": "Naval air station, Arakkonam"
+    }
+  ],
+  "army_bases": [
+    {
+      "name": "Northern Command HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [32.7266, 74.857],
+      "state": "Jammu & Kashmir",
+      "category": "critical",
+      "note": "Udhampur, J&K operations"
+    },
+    {
+      "name": "Western Command HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [30.7333, 76.7794],
+      "state": "Punjab",
+      "category": "critical",
+      "note": "Chandimandir, Pakistan border"
+    },
+    {
+      "name": "Eastern Command HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [22.5726, 88.3639],
+      "state": "West Bengal",
+      "category": "critical",
+      "note": "Fort William, Kolkata"
+    },
+    {
+      "name": "Central Command HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [26.8467, 80.9462],
+      "state": "Uttar Pradesh",
+      "category": "critical",
+      "note": "Lucknow"
+    },
+    {
+      "name": "Southern Command HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [18.5204, 73.8567],
+      "state": "Maharashtra",
+      "category": "high",
+      "note": "Pune"
+    },
+    {
+      "name": "South Western Command HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [26.9124, 75.7873],
+      "state": "Rajasthan",
+      "category": "critical",
+      "note": "Jaipur, Pakistan border sector"
+    },
+    {
+      "name": "IV Corps HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [26.1445, 91.7362],
+      "state": "Assam",
+      "category": "critical",
+      "note": "Tezpur, China border"
+    },
+    {
+      "name": "III Corps HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [24.817, 93.9368],
+      "state": "Manipur",
+      "category": "high",
+      "note": "Dimapur, Eastern sector"
+    },
+    {
+      "name": "XVII Corps HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [25.5788, 91.8933],
+      "state": "Meghalaya",
+      "category": "critical",
+      "note": "Shillong, Mountain Strike Corps"
+    },
+    {
+      "name": "Strike Corps I",
+      "type": "army",
+      "branch": "IA",
+      "coords": [29.1492, 75.7217],
+      "state": "Haryana",
+      "category": "critical",
+      "note": "Mathura, offensive formation"
+    },
+    {
+      "name": "Strike Corps II",
+      "type": "army",
+      "branch": "IA",
+      "coords": [26.2389, 73.0243],
+      "state": "Rajasthan",
+      "category": "critical",
+      "note": "Bhopal / Jodhpur sector"
+    },
+    {
+      "name": "XIV Corps HQ",
+      "type": "army",
+      "branch": "IA",
+      "coords": [34.1526, 77.5771],
+      "state": "Ladakh",
+      "category": "critical",
+      "note": "Leh, high altitude warfare"
+    }
+  ],
+  "missile_facilities": [
+    {
+      "name": "DRDO Missile Complex",
+      "type": "missile",
+      "branch": "DRDO",
+      "coords": [17.385, 78.4867],
+      "state": "Telangana",
+      "category": "critical",
+      "note": "Hyderabad, missile development"
+    },
+    {
+      "name": "APJ Abdul Kalam Island",
+      "type": "missile",
+      "branch": "DRDO",
+      "coords": [20.7557, 87.0886],
+      "state": "Odisha",
+      "category": "critical",
+      "note": "Missile test facility, formerly Wheeler Island"
+    },
+    {
+      "name": "Chandipur Missile Range",
+      "type": "missile",
+      "branch": "DRDO",
+      "coords": [21.4602, 87.0147],
+      "state": "Odisha",
+      "category": "high",
+      "note": "Integrated Test Range"
+    }
+  ],
+  "strategic": [
+    {
+      "name": "Nuclear Command Authority",
+      "type": "strategic",
+      "branch": "Tri-Service",
+      "coords": [28.6139, 77.209],
+      "state": "Delhi",
+      "category": "critical",
+      "note": "New Delhi, nuclear command"
+    },
+    {
+      "name": "Bhabha Atomic Research Centre",
+      "type": "strategic",
+      "branch": "DAE",
+      "coords": [19.0176, 72.9186],
+      "state": "Maharashtra",
+      "category": "critical",
+      "note": "Trombay, nuclear research"
+    },
+    {
+      "name": "Rare Materials Plant",
+      "type": "strategic",
+      "branch": "DAE",
+      "coords": [13.0827, 80.2707],
+      "state": "Tamil Nadu",
+      "category": "critical",
+      "note": "Kalpakkam, nuclear fuel"
+    }
+  ]
+}

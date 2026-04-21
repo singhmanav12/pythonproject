@@ -1,0 +1,1827 @@
+{
+    "alerts": [
+        {
+            "id": "971bf6dba293694f69bfa7be35f72026",
+            "url": "https://t.me/monitor_the_situation/4992",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Air Force Strikes Hezbollah Crossing South of Litani River Lebanon Israeli Air Force targeted a key Hezbollah crossing south of the Litani River used for transferring weapons, rockets, and launchers to conduct attacks against IDF forces. The IDF vows to continue intensive operations against Hezbollah. \ud83d\udccd South of Litani River, Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @IAFsite View on Monitor The Situation",
+            "timestamp": "2026-03-24T10:16:13+00:00",
+            "has_media": true
+        },
+        {
+            "id": "e0c5e67b623ccfa00fee843808ce3170",
+            "url": "https://t.me/monitor_the_situation/4991",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Reliance Industries Purchases 5 Million Barrels of Iranian Oil in Mumbai Indian conglomerate Reliance Industries bought 5 million barrels of Iranian oil following the suspension of US sanctions, as reported by Reuters. This deal highlights shifting trade dynamics amid US policy changes on Iran sanctions. \ud83d\udccd Mumbai, India \ud83d\udcc8 Economic \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T10:12:39+00:00",
+            "has_media": true
+        },
+        {
+            "id": "9d075dd309546c47f359a57339dbe6d0",
+            "url": "https://t.me/conflictstracker/3881",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\uddf0\ud83c\uddfc Kuwait reports power outages after damage to transmission lines.",
+            "timestamp": "2026-03-24T04:12:06+00:00",
+            "has_media": true
+        },
+        {
+            "id": "9cd29a1664e07af73fd03455a613a21f",
+            "url": "https://t.me/terroralarm/28417",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 Israeli strike kills PMF commanders in Anbar, Iraq. The Popular Mobilization Forces confirm the elimimation of Anbar Operations Commander Saad Daway al-Bayji and 5 other senior leaders in an airstrike that targeted the command headquarters.",
+            "timestamp": "2026-03-24T04:22:06+00:00",
+            "has_media": true
+        },
+        {
+            "id": "44e8cc1e5daf7b99ccdd457969951713",
+            "url": "https://t.me/terroralarm/28422",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf7 Iran's cardboard Supreme Leader and his inner circle would flee if they had the slightest idea what awaits them over the next two weeks.",
+            "timestamp": "2026-03-24T10:05:53+00:00",
+            "has_media": false
+        },
+        {
+            "id": "5654da3201228e4fe0382f4280e75350",
+            "url": "https://t.me/monitor_the_situation/4990",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israel Announces Control of Bridges and Area South of Litani River Lebanon Israel declares it will take control of bridges and territory south of Lebanon's Litani River amid ongoing military operations against Hezbollah. This move signals potential ground expansion in southern Lebanon following recent airstrikes. \ud83d\udccd South of Litani River, Lebanon \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T10:05:59+00:00",
+            "has_media": true
+        },
+        {
+            "id": "b672c531d77f3c5451ded5f8500a1a9a",
+            "url": "https://t.me/monitor_the_situation/4989",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Ukrainian Forces Strike Russian Bastion Launcher in Occupied Crimea Ukrainian General Staff confirmed strikes on a Bastion coastal missile launcher in occupied Crimea, plus Russian troop concentrations, UAV command points, and a repair unit in occupied Donetsk, Luhansk, and Zaporizhzhia regions. Damage and losses are under assessment amid ongoing conflict. \ud83d\udccd Crimea, Ukraine \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T10:01:38+00:00",
+            "has_media": true
+        },
+        {
+            "id": "83a3945c62c5c1dbc58428523f0e2fae",
+            "url": "https://t.me/monitor_the_situation/4988",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Airstrikes Destroy al-Dallafa Bridge in Eastern Lebanon Israeli airstrikes targeted and destroyed the al-Dallafa Bridge in eastern Lebanon, disrupting key infrastructure. The strike is part of ongoing military operations amid heightened regional tensions. \ud83d\udccd al-Dallafa Bridge, Eastern Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T10:00:55+00:00",
+            "has_media": true
+        },
+        {
+            "id": "7c8dfbbf9bdbb0183f0834ef2c39cbd0",
+            "url": "https://t.me/monitor_the_situation/4987",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Gulf Region Hopes Rise for Diplomacy After Brinkmanship Shift A sudden transition from brinkmanship to diplomatic efforts in the Gulf region, centered in Riyadh, Saudi Arabia, is sparking optimism amid ongoing tensions but leaves details of any talks unclear. This comes amid reports of Saudi Arabia considering joining attacks against Iran. \ud83d\udccd Riyadh, Saudi Arabia \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @gulf_news View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:55:19+00:00",
+            "has_media": true
+        },
+        {
+            "id": "0767817bd8b172e835895cea89b7f7f6",
+            "url": "https://t.me/monitor_the_situation/4986",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Airstrike Damages Residential Buildings in Nabatieh Lebanon Israeli airstrike struck al-Maisa neighborhood in Nabatieh, south Lebanon, causing widespread damage to residential buildings. The attack adds to ongoing military operations in southern Lebanon amid regional conflict escalation. \ud83d\udccd Nabatieh, Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:50:08+00:00",
+            "has_media": true
+        },
+        {
+            "id": "439392e5d9f9cb96d65b16774a4a8494",
+            "url": "https://t.me/conflictstracker/3880",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddee\ud83c\uddf7 \ud83c\uddf8\ud83c\udde6 Multiple waves of Iranian strikes have hit targets across Saudi Arabia over the past few hours, with attacks still ongoing.",
+            "timestamp": "2026-03-24T04:02:23+00:00",
+            "has_media": false
+        },
+        {
+            "id": "cd723e9a7ad83967cfb697cdf2dc65a9",
+            "url": "https://t.me/monitor_the_situation/4985",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Iran Accused of Deadly Attack on Kurdish Forces in Erbil Iraq Iraq's Kurdish Regional Government accuses Iran of launching a deadly attack on its forces in Erbil. The incident escalates tensions amid ongoing regional conflicts involving Iran. \ud83d\udccd Erbil, Iraq \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:41:00+00:00",
+            "has_media": true
+        },
+        {
+            "id": "2a3a935964b454ff27f7895e0246e17e",
+            "url": "https://t.me/monitor_the_situation/4984",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Iranian Missile Strikes Damage Residential Building in Tel Aviv Israel Drone footage reveals extensive damage to a multi-storey residential building in Tel Aviv after a wave of Iranian missile strikes on the city. The attack adds to ongoing escalations between Iran and Israel amid regional conflict. \ud83d\udccd Tel Aviv, Israel \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:35:44+00:00",
+            "has_media": true
+        },
+        {
+            "id": "9c527c6fc72200a33c52eba8bb03bb01",
+            "url": "https://t.me/terroralarm/28402",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddee\ud83c\uddf7 Just in: Precision strikes wiping out IRGC missile & ammo depots along the Ahvaz coast.",
+            "timestamp": "2026-03-23T09:40:57+00:00",
+            "has_media": true
+        },
+        {
+            "id": "264cb86820d6985e0e3bb3f7fc139e58",
+            "url": "https://t.me/monitor_the_situation/4983",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israel Vows Full-Force IDF Operations in Southern Lebanon Israel's Defense Minister Katz stated the IDF will continue operations against Hezbollah with full force, preventing hundreds of thousands of displaced southern Lebanon residents from returning south of the Litani River until Israel's security is ensured. \ud83d\udccd Southern Lebanon \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @FaytuksNetwork View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:34:45+00:00",
+            "has_media": false
+        },
+        {
+            "id": "751674bc302d32f5a5569354e4235b8e",
+            "url": "https://t.me/monitor_the_situation/4982",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Ukraine Forms 238th Unmanned Systems Battalion in Kyiv Ukraine established the 238th separate unmanned systems battalion 'Black Falcon' within the 8th Air Assault Corps, with initial combat footage released showing early operations. This bolsters Ukraine's drone capabilities amid ongoing conflict with Russia. \ud83d\udccd Kyiv, Ukraine \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:34:44+00:00",
+            "has_media": true
+        },
+        {
+            "id": "f731802e97326273ccc11fdf3bc6ba4f",
+            "url": "https://t.me/monitor_the_situation/4981",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Iran Police Arrest 466 for Stirring Public Opinion in Tehran Iranian police arrested 466 individuals accused of stirring public opinion and conducting online propaganda in favor of the enemy, amid ongoing war tensions and internet blackouts. The sweeping operation targets perceived internal dissent supporting adversarial forces. \ud83d\udccd Tehran, Iran \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:33:31+00:00",
+            "has_media": true
+        },
+        {
+            "id": "d1fada9a5874e8a785a9c5e7712b49c9",
+            "url": "https://t.me/monitor_the_situation/4980",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Philippines Faces Jet Fuel Crisis in Manila The Philippines is experiencing a jet fuel shortage triggered by disruptions from the US-Israel war on Iran, threatening aviation operations and supply chains. No immediate resolution has been announced amid rising regional tensions. \ud83d\udccd Manila, Philippines \ud83d\udcc8 Economic \u00b7 S2 - NOTABLE \ud83d\udce1 @gulf_news View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:33:13+00:00",
+            "has_media": true
+        },
+        {
+            "id": "871235d5c0c3684d27aa4f3906e58bbd",
+            "url": "https://t.me/monitor_the_situation/4979",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Jets Destroy Hezbollah Headquarters in Beirut and A-Tiri Lebanon Israeli jets targeted Hezbollah\u2019s Radwan Force headquarters and intelligence base in Beirut, plus a command post in a radio station in A-Tiri village. The IDF stated Hezbollah embedded operations in civilian sites. \ud83d\udccd Beirut and A-Tiri, Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:30:05+00:00",
+            "has_media": true
+        },
+        {
+            "id": "6af0952e1c054f8605230601e1ef7bbb",
+            "url": "https://t.me/monitor_the_situation/4978",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Rockets Launched from Lebanon at Kiryat Shmona Israel Rockets were fired from Lebanon targeting Kiryat Shmona in northern Israel, prompting activation of the Iron Dome interception system. No immediate casualty reports, but the attack adds to ongoing cross-border exchanges. \ud83d\udccd Kiryat Shmona, Israel \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AMK_Mapping_ View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:29:54+00:00",
+            "has_media": true
+        },
+        {
+            "id": "68847c3d0e085e9dd35b1f01b7b95236",
+            "url": "https://t.me/monitor_the_situation/4977",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Trump Shifts US Policy to Negotiations with Iran from Washington US President Trump has unexpectedly pivoted from threats of strikes to pursuing negotiations with Iran, causing confusion among Israeli analysts. The policy shift raises concerns in Israel about US alignment amid regional tensions. \ud83d\udccd Washington, United States \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @WarMonitor3 View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:19:51+00:00",
+            "has_media": false
+        },
+        {
+            "id": "b30fc750d124ca5369c30c7ffdd81c0a",
+            "url": "https://t.me/monitor_the_situation/4976",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Ukrainian Kraken Regiment Destroys Russian MLRS, Tank and Artillery in Kyiv Region Kraken Regiment FPV drone units destroyed a Russian MLRS system, tank, artillery piece, infantry truck, and struck personnel in positions and shelters. The operation targeted Russian forces in the Kyiv region amid ongoing conflict. \ud83d\udccd Kyiv region, Ukraine \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:19:49+00:00",
+            "has_media": false
+        },
+        {
+            "id": "86aa4f222368425a0fb4853371c72759",
+            "url": "https://t.me/monitor_the_situation/4975",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 IRGC Threatens Unrestrained Strikes on Israel from Tehran Iranian Revolutionary Guard Corps warns of unrestrained attacks on Israel if it targets civilians in Lebanon or Gaza, amid ongoing regional airstrikes and rocket exchanges. The threat escalates tensions as Israel conducts operations in southern Lebanon. \ud83d\udccd Tehran, Iran \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:15:42+00:00",
+            "has_media": true
+        },
+        {
+            "id": "1c07b09820d0d9ab9e2ec786cfcd613b",
+            "url": "https://t.me/monitor_the_situation/4974",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Ukrainian STRIX Unit Destroys Russian Radar and EW Systems in Ukraine Ukraine's STRIX unit neutralized high-value Russian assets including Avtobaza electronic intelligence complex, Skilok radar, Scanner-K direction finder, Murom-M surveillance system, a mortar position, and two vehicles. The strikes target Russian military capabilities amid ongoing conflict. \ud83d\udccd Unknown, Ukraine \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:15:01+00:00",
+            "has_media": true
+        },
+        {
+            "id": "3292b620803e09981c56ad111ae9066d",
+            "url": "https://t.me/monitor_the_situation/4973",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Air Force Strikes Hezbollah TV Station and Radwan HQ in Southern Lebanon Israeli Air Force conducted overnight airstrikes targeting a Hezbollah-operated TV station and headquarters of the elite Radwan Force. The strikes were documented and published by the Israeli Air Force amid ongoing cross-border conflict with Hezbollah. \ud83d\udccd Southern Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @IAFsite View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:14:50+00:00",
+            "has_media": true
+        },
+        {
+            "id": "8c88d91ec4950aee2ab94c708b60614f",
+            "url": "https://t.me/monitor_the_situation/4972",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 US and Israeli Airstrikes Target Shiraz Iran Four US and Israeli airstrikes hit Shiraz in northwestern Iran, targeting unspecified sites amid escalating regional conflict. This follows recent strikes on Tehran and other Iranian locations. \ud83d\udccd Shiraz, Iran \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AMK_Mapping_ View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:10:32+00:00",
+            "has_media": true
+        },
+        {
+            "id": "923f6850cf9e4d224c2aae34bdfd7b3a",
+            "url": "https://t.me/monitor_the_situation/4971",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Two Minors Arrested for Arson in Antwerp Belgium Anti-Semitic Attack Belgian authorities arrested two minors overnight in connection with an arson incident in Antwerp, suspected as an anti-Semitic act. The arrests were confirmed by a Belgian official to Reuters amid rising concerns over hate crimes. \ud83d\udccd Antwerp, Belgium \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:07:32+00:00",
+            "has_media": true
+        },
+        {
+            "id": "be1cae77ae897fa4c9a33ab8f116f881",
+            "url": "https://t.me/monitor_the_situation/4970",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Hezbollah Fires 20-30 Rockets at Krayot Northern Israel Hezbollah launched 20-30 rockets targeting Krayot in northern Israel, with at least two impacts reported. The attack adds to ongoing cross-border exchanges amid heightened regional tensions. \ud83d\udccd Krayot, Israel \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AMK_Mapping_ View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:04:44+00:00",
+            "has_media": true
+        },
+        {
+            "id": "f79a402808ee3781b645aafb1fc48555",
+            "url": "https://t.me/monitor_the_situation/4969",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Middle East Tensions Drive Up Brent and WTI Oil Prices Geopolitical tensions in the Middle East push Brent and WTI crude oil prices higher while UAE's Murban futures decline amid divergent market pressures. The surge reflects investor concerns over potential supply disruptions from ongoing regional conflicts. \ud83d\udccd Middle East \ud83d\udcc8 Economic \u00b7 S2 - NOTABLE \ud83d\udce1 @gulf_news View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:03:33+00:00",
+            "has_media": true
+        },
+        {
+            "id": "257b6a1532fd83958fde54e5782fc6c4",
+            "url": "https://t.me/monitor_the_situation/4968",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Trump Shows Determination for Iran Nuclear Deal, Israeli Officials Say Three senior Israeli officials told Reuters that US President Trump is demonstrating strong resolve to negotiate a nuclear deal with Iran amid ongoing regional tensions. This comes as Trump previously claimed US-Iran war talks were underway, though Iran denied those reports. \ud83d\udccd Washington, United States \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:02:54+00:00",
+            "has_media": true
+        },
+        {
+            "id": "47510827ac0ccc53483c7cf0cfba482a",
+            "url": "https://t.me/monitor_the_situation/4967",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Iran Internet Blackout Enters 25th Day Iran's nationwide internet blackout has persisted for 25 consecutive days amid ongoing conflict and infrastructure disruptions. The prolonged outage severely limits information flow and exacerbates communication challenges for civilians and authorities. \ud83d\udccd Iran \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T09:00:53+00:00",
+            "has_media": true
+        },
+        {
+            "id": "f5b85c2129e821d8805b88c4badac93b",
+            "url": "https://t.me/terroralarm/28421",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 Saudi Arabia allows US forces to use King Fahd Air Base for operations against Iran and is nearing a decision to join the forces of light.",
+            "timestamp": "2026-03-24T08:54:16+00:00",
+            "has_media": true
+        },
+        {
+            "id": "58befb87012eda4376a21898c3656361",
+            "url": "https://t.me/OSINTWarfare/3965",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "U.S. Central Command (CENTCOM) has released footage showing precision strikes on Iranian loitering munitions prior to launch, including an Iranian Army Arash-2 and IRGC Shahed-136 drones, carried out by a U.S. Army MQ-9A Reaper. The Arash-2 was targeted with a 500-pound precision-guided bomb (likely a GBU-38, GBU-54, or GBU-12), while the Shahed drones were struck using AGM-114 Hellfire or AGM-179 Joint Air-to-Ground Missile (JAGM) missiles. The footage also shows the use of low-cost single-unit launchers, with the drones deployed using solid-fuel JATO boosters.",
+            "timestamp": "2026-03-23T00:29:46+00:00",
+            "has_media": true
+        },
+        {
+            "id": "4bab85d0ed8752aa31ddd58b7a740118",
+            "url": "https://t.me/OSINTWarfare/3964",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Hezbollah has released footage of a missile attack targeting the headquarters of the Israeli Navy\u2019s Shayetet 13 naval commando unit at the Atlit Naval Base, south of Haifa, using Fath-360 (BM-120) short-range ballistic missiles (SRBMs).",
+            "timestamp": "2026-03-23T00:01:14+00:00",
+            "has_media": false
+        },
+        {
+            "id": "1f25e754ab6c1366df7f628e3af56145",
+            "url": "https://t.me/OSINTWarfare/3963",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "The Israeli Air Force (IAF) carried out airstrikes on targets in Tehran, which may have included energy infrastructure.",
+            "timestamp": "2026-03-22T23:22:18+00:00",
+            "has_media": true
+        },
+        {
+            "id": "11d232679f6f8cfd6943088b05b7560c",
+            "url": "https://t.me/OSINTWarfare/3961",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Footage shows an Iranian ballistic missile striking central Israel during the latest wave of attacks.",
+            "timestamp": "2026-03-22T23:07:59+00:00",
+            "has_media": true
+        },
+        {
+            "id": "b539f2059a2e268f7c86211f5ac764d3",
+            "url": "https://t.me/OSINTWarfare/3960",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Iran\u2019s Khatam-al Anbiya Central Headquarters Spokesperson: \u201cHey, Trump, You're fired! \u2014 You\u2019re familiar with this sentence. Thank you for your attention to this matter! The Central Headquarters of Khatam al-Anbiya.\u201d",
+            "timestamp": "2026-03-22T21:20:09+00:00",
+            "has_media": true
+        },
+        {
+            "id": "e9bf07c800e762a359c6cfb6f9827fe9",
+            "url": "https://t.me/OSINTWarfare/3959",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "\ud83e\udd23",
+            "timestamp": "2026-03-22T20:51:55+00:00",
+            "has_media": true
+        },
+        {
+            "id": "5719b7fb4ab32ae3915e327d796d2e69",
+            "url": "https://t.me/OSINTWarfare/3958",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Hezbollah has released footage showing the downing of an Israeli Hermes 450 unmanned aerial vehicle (UAV) over Bint Jbeil in southern Lebanon, using a Misagh-1/D man-portable air-defense system (MANPADS).",
+            "timestamp": "2026-03-22T19:09:22+00:00",
+            "has_media": true
+        },
+        {
+            "id": "5719b7fb4ab32ae3915e327d796d2e69",
+            "url": "https://t.me/OSINTWarfare/3957",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Hezbollah has released footage showing the downing of an Israeli Hermes 450 unmanned aerial vehicle (UAV) over Bint Jbeil in southern Lebanon, using a Misagh-1/D man-portable air-defense system (MANPADS).",
+            "timestamp": "2026-03-22T19:02:57+00:00",
+            "has_media": false
+        },
+        {
+            "id": "d8030d2f5aaf4489f5213ab62d1cd971",
+            "url": "https://t.me/ZeeNews/37725",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "\u0907\u0938 \u0905\u0930\u092c\u092a\u0924\u093f \u0915\u0940 \u090f\u0915\u094d\u0938 \u0935\u093e\u0907\u092b \u0928\u0947 \u092f\u0942\u0928\u093f\u0935\u0930\u094d\u0938\u093f\u091f\u0940 \u0915\u0947 \u0932\u093f\u090f \u0916\u094b\u0932\u093e \u092a\u093f\u091f\u093e\u0930\u093e, \u0926\u093f\u092f\u093e \u0915\u0930\u094b\u0921\u093c\u094b\u0902 \u0915\u093e \u0926\u093e\u0928; \u090f\u0932\u0928 \u092e\u0938\u094d\u0915 \u092d\u0940 \u0930\u0939 \u0917\u090f \u092a\u0940\u091b\u0947 https://zeenews.india.com/hindi/world/mackenzie-scott-donates-42-million-dollar-to-black-university/3151457 Mackenzie Scott Donation To University: \u091c\u0947\u092b \u092c\u0947\u091c\u094b\u0938 \u0915\u0940 \u092a\u0942\u0930\u094d\u0935 \u092a\u0924\u094d\u0928\u0940 \u092e\u0948\u0915\u0947\u0902\u091c\u0940 \u0938\u094d\u0915\u0949\u091f \u0928\u0947 \u090f\u0915\u0924 \u0905\u0936\u094d\u0935\u0947\u0924 \u092f\u0942\u0928\u093f\u0930\u094d\u0935\u0930\u094d\u0938\u093f\u091f\u0940 \u0915\u094b 42 \u092e\u093f\u0932\u093f\u092f\u0928 \u0921\u0949\u0932\u0930 \u0915\u093e \u0921\u094b\u0928\u0947\u0936\u0928 \u0926\u093f\u092f\u093e \u0939\u0948, \u091c\u094b \u0909\u0928\u0915\u0947 \u0938\u093e\u0932 2020 \u092e\u0947\u0902 \u0915\u093f\u090f \u0917\u090f \u091f\u094b\u091f\u0932 \u0921\u094b\u0928\u0947\u0936\u0928 \u0938\u0947 3 \u0917\u0941\u0928\u093e \u091c\u094d\u092f\u093e\u0926\u093e \u0939\u0948.",
+            "timestamp": "2026-03-23T21:20:32+00:00",
+            "has_media": false
+        },
+        {
+            "id": "80a7635d634059b6f015d6edf1304bd0",
+            "url": "https://t.me/ZeeNews/37724",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "Explain: 24 \u0926\u093f\u0928 \u0915\u0940 \u091c\u0902\u0917 \u092e\u0947\u0902 \u0939\u094b\u0930\u094d\u092e\u0941\u091c \u0915\u0948\u0938\u0947 \u092c\u0928\u093e \u0924\u0947\u0939\u0930\u093e\u0928 \u0915\u093e \u0918\u093e\u0924\u0915 \u0939\u0925\u093f\u092f\u093e\u0930? \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u092c\u0948\u0915\u092b\u0941\u091f \u092a\u0930 \u092f\u0942\u0902 \u0939\u0940 \u0928\u0939\u0940\u0902 \u0906\u092f\u093e! https://zeenews.india.com/hindi/world/trump-has-been-vehement-and-now-lenient-but-iran-remains-unmoved-how-did-hormuz-become-tehrans-weapon/3151408 Strait of Hormuz: \u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0908\u0930\u093e\u0928 \u0915\u094b \u0926\u093f\u090f \u0905\u0932\u094d\u091f\u0940\u092e\u0947\u091f\u092e \u0915\u0940 \u0921\u0947\u0921\u0932\u093e\u0907\u0928 120 \u0918\u0902\u091f\u0947 \u0915\u0947 \u0932\u093f\u090f \u092c\u0922\u093c\u093e \u0926\u0940. \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u092f\u0942-\u091f\u0930\u094d\u0928 \u0915\u094b '\u092a\u0936\u094d\u091a\u093f\u092e' \u0928\u0947 \u0924\u0928\u093e\u0935 \u0915\u092e \u0915\u0930\u0928\u0947 \u0915\u0940 \u092e\u0941\u0939\u093f\u092e \u092c\u0924\u093e\u092f\u093e, \u0932\u0947\u0915\u093f\u0928 \u0908\u0930\u093e\u0928 \u0928\u0947 \u092b\u0948\u0938\u0932\u0947 \u092a\u0930 \u0924\u0902\u091c \u0915\u0938\u0928\u0947 \u092e\u0947\u0902 \u0926\u0947\u0930 \u0928\u0939\u0940\u0902 \u0932\u0917\u093e\u0908. \u0908\u0930\u093e\u0928 \u0928\u0947 \u0915\u0939\u093e, '\u0935\u094b \u0939\u092e\u093e\u0930\u093e \u0915\u094d\u092f\u093e \u092c\u093f\u0917\u093e\u0921\u093c \u092a\u093e\u090f\u0902\u0917\u0947, \u091f\u094d\u0930\u0902\u092a \u0916\u0941\u0926 \u0921\u0930 \u0917\u090f \u0939\u0948\u0902.' \u0908\u0930\u093e\u0928 \u0928\u0947 '\u0939\u094b\u0930\u094d\u092e\u0941\u091c' \u0915\u094b '\u0939\u0925\u093f\u092f\u093e\u0930' \u092c\u0928\u093e\u0915\u0930 \u091f\u094d\u0930\u0902\u092a \u0915\u094b \u0915\u0948\u0938\u0947 \u091d\u0941\u0915\u093e\u092f\u093e, \u0906\u0907\u090f \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902.",
+            "timestamp": "2026-03-23T21:19:32+00:00",
+            "has_media": false
+        },
+        {
+            "id": "b65bbd908e9d19c3246382d16b23a77d",
+            "url": "https://t.me/ZeeNews/37723",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "Colombian Plane Crash: \u0906\u0917 \u0915\u093e \u0917\u094b\u0932\u093e \u092c\u0928\u093e \u0915\u094b\u0932\u0902\u092c\u093f\u092f\u093e \u0935\u093e\u092f\u0941\u0938\u0947\u0928\u093e \u0915\u093e \u092a\u094d\u0932\u0947\u0928, \u0915\u094d\u0930\u0948\u0936 \u0915\u0947 \u092c\u093e\u0926 \u092b\u0948\u0932\u0940\u0902 \u0932\u092a\u091f\u0947\u0902, 110 \u091c\u0935\u093e\u0928 \u0925\u0947 \u0938\u0935\u093e\u0930 https://zeenews.india.com/hindi/world/colombia-airforce-plane-involved-in-accident-had-110-soldiers-onboard/3151407 Colombia Plane Crash Video: \u0930\u0915\u094d\u0937\u093e \u092e\u0902\u0924\u094d\u0930\u0940 \u092a\u0947\u0921\u094d\u0930\u094b \u0938\u093e\u0902\u091a\u0947\u091c \u0928\u0947 \u092c\u0924\u093e\u092f\u093e \u0915\u093f \u092f\u0939 \u0926\u0941\u0930\u094d\u0918\u091f\u0928\u093e \u0909\u0938 \u0938\u092e\u092f \u0939\u0941\u0908, \u091c\u092c \u0935\u093f\u092e\u093e\u0928 \u0915\u094b\u0932\u0902\u092c\u093f\u092f\u093e \u0915\u0947 \u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u0905\u092e\u0947\u091c\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u092a\u0947\u0930\u0942 \u0915\u0940 \u0938\u0940\u092e\u093e \u092a\u0930 \u0938\u094d\u0925\u093f\u0924 \u092a\u094d\u092f\u0942\u0930\u094d\u091f\u094b \u0932\u0947\u0917\u0941\u0907\u091c\u093e\u092e\u094b \u0938\u0947 \u0909\u0921\u093c\u093e\u0928 \u092d\u0930 \u0930\u0939\u093e \u0925\u093e \u0914\u0930 \u0938\u0936\u0938\u094d\u0924\u094d\u0930 \u092c\u0932\u094b\u0902 \u0915\u0947 \u0938\u0948\u0928\u093f\u0915\u094b\u0902 \u0915\u094b \u0932\u0947 \u091c\u093e \u0930\u0939\u093e \u0925\u093e.",
+            "timestamp": "2026-03-23T21:18:31+00:00",
+            "has_media": false
+        },
+        {
+            "id": "005cec2eae7c65bc2c006a88367df970",
+            "url": "https://t.me/ZeeNews/37722",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "14,897 \u0930\u0941\u092a\u092f\u0947 \u091f\u0942\u091f\u093e \u0938\u094b\u0928\u093e; \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u0905\u092d\u0940 \u0939\u0948 \u0916\u0930\u0940\u0926\u093e\u0930\u0940 \u0915\u093e \u092e\u094c\u0915\u093e \u092f\u093e \u0925\u094b\u0921\u093c\u093e \u0907\u0902\u0924\u091c\u093e\u0930 \u0930\u0939\u0947\u0917\u093e \u092c\u0947\u0939\u0924\u0930? https://zeenews.india.com/hindi/business/gold-falls-by-rupee-14897-is-this-the-right-time-to-buy-or-should-you-wait/3151406 \u092e\u093e\u0930\u094d\u0915\u0947\u091f \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f\u094d\u0938 \u0915\u093e \u0915\u0939\u0928\u093e \u0939\u0948 \u0915\u093f \u0905\u092d\u0940 \u0938\u094b\u0928\u093e \u0916\u0930\u0940\u0926\u0928\u0947 \u092e\u0947\u0902 \u091c\u0932\u094d\u0926\u092c\u093e\u091c\u0940 \u0928\u0939\u0940\u0902 \u0915\u0930\u0928\u0940 \u091a\u093e\u0939\u093f\u090f. \u0928\u093f\u0935\u0947\u0936\u0915\u094b\u0902 \u0915\u094b \u0938\u0932\u093e\u0939 \u0926\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948 \u0915\u093f \u0935\u0947 \u0925\u094b\u0921\u093c\u093e \u0907\u0902\u0924\u091c\u093e\u0930 \u0915\u0930\u0947\u0902 \u0914\u0930 \u092c\u093e\u091c\u093e\u0930 \u0915\u0940 \u0926\u093f\u0936\u093e \u0938\u093e\u092b \u0939\u094b\u0928\u0947 \u0926\u0947\u0902. \u092e\u094c\u091c\u0942\u0926\u093e \u0939\u093e\u0932\u093e\u0924 \u092e\u0947\u0902 \u0938\u094b\u0928\u0947-\u091a\u093e\u0902\u0926\u0940 \u0915\u0940 \u0915\u0940\u092e\u0924\u094b\u0902 \u092e\u0947\u0902 \u0909\u0924\u093e\u0930-\u091a\u0922\u093c\u093e\u0935 \u091c\u093e\u0930\u0940 \u0930\u0939 \u0938\u0915\u0924\u093e \u0939\u0948.",
+            "timestamp": "2026-03-23T21:17:32+00:00",
+            "has_media": false
+        },
+        {
+            "id": "fc6f2d2d74e2ddd2496a087c1f9667ad",
+            "url": "https://t.me/OSINTWarfare/3976",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "A massive fire broke out at Valero Port Arthur Refinery following reports of an explosion. The cause remains unknown.",
+            "timestamp": "2026-03-24T01:03:52+00:00",
+            "has_media": true
+        },
+        {
+            "id": "9aefabc94c6a1d2a6411d981c052a174",
+            "url": "https://t.me/OSINTWarfare/3974",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Earlier, the IRGC Aerospace Force targeted the city of Haifa with what were likely Khorramshahr-4 medium-range ballistic missiles (MRBMs), equipped with cluster warheads.",
+            "timestamp": "2026-03-23T23:24:29+00:00",
+            "has_media": true
+        },
+        {
+            "id": "a949746c92616bf0bbea91270008447c",
+            "url": "https://t.me/OSINTWarfare/3973",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Footage shows the Islamic Resistance in Iraq launching 122mm 9M22U Grad rockets from the town of Rabia in northwestern Iraq toward a U.S. base in Al-Hasakah, Syria.",
+            "timestamp": "2026-03-23T21:47:29+00:00",
+            "has_media": true
+        },
+        {
+            "id": "b8c569d2d90db2b109f995fe80adc82a",
+            "url": "https://t.me/monitor_the_situation/4966",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Hezbollah Attack Triggers Sirens and Interceptions over Haifa Israel Sirens sounded and interceptions occurred over Haifa following a Hezbollah attack, amid ongoing escalations between Israel and Hezbollah forces. This incident adds to heightened tensions in northern Israel. \ud83d\udccd Haifa, Israel \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:52:03+00:00",
+            "has_media": true
+        },
+        {
+            "id": "7b38538585d4b2768ce2dd069b0d7274",
+            "url": "https://t.me/ZeeNews/37733",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "\u0930\u0947\u0932 \u092e\u0902\u0924\u094d\u0930\u0940 \u0915\u093e \u092c\u0921\u093c\u093e \u0910\u0932\u093e\u0928, 18 \u0918\u0902\u091f\u0947 \u092a\u0939\u0932\u0947 \u092c\u0928\u0947\u0917\u093e \u0930\u0947\u0932\u0935\u0947 \u091a\u093e\u0930\u094d\u091f, 30 \u092e\u200d\u093f\u0928\u091f \u092a\u0939\u0932\u0947 \u091a\u0947\u0902\u091c \u0939\u094b \u0938\u0915\u0947\u0917\u093e \u092c\u094b\u0930\u094d\u0921\u093f\u0902\u0917 \u0938\u094d\u091f\u0947\u0936\u0928 https://zeenews.india.com/hindi/business/ashwini-vaishnaw-says-now-you-can-change-boarding-station-before-30-minute/3152092 IRCTC: \u0905\u092d\u0940 \u091a\u093e\u0930 \u0918\u0902\u091f\u0947 \u092a\u0939\u0932\u0947 \u091a\u093e\u0930\u094d\u091f \u092c\u0928\u0928\u0947 \u092a\u0930 \u092f\u0926\u200d\u093f \u092f\u093e\u0924\u094d\u0930\u200d\u093f\u092f\u094b\u0902 \u0915\u0940 \u0938\u0940\u091f \u0915\u0902\u092b\u0930\u094d\u092e \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u0940 \u0925\u0940 \u0924\u094b \u0932\u093e\u0938\u094d\u200d\u091f \u092e\u094b\u092e\u0947\u0902\u091f \u092a\u0930 \u0938\u092b\u0930 \u0915\u093e \u092a\u094d\u200d\u0932\u093e\u0928 \u0915\u0948\u0902\u0938\u200d\u093f\u0932 \u0915\u0930\u0928\u0947 \u092f\u093e \u0935\u0948\u0915\u0932\u094d\u200d\u092a\u200d\u093f\u0915 \u0935\u094d\u200d\u092f\u0935\u0938\u094d\u200d\u0925\u093e \u092c\u0928\u093e\u0928\u0947 \u092e\u0947\u0902 \u092a\u0930\u0947\u0936\u093e\u0928\u0940 \u0939\u094b\u200d\u0924\u0940 \u0925\u0940. \u0932\u0947\u0915\u200d\u093f\u0928 \u0905\u092c \u091a\u093e\u0930\u094d\u091f \u0915\u0947 9 \u0938\u0947 18 \u0918\u0902\u091f\u0947 \u092a\u0939\u0932\u0947 \u092c\u0928\u0928\u0947 \u092a\u0930 \u092f\u093e\u0924\u094d\u0930\u0940 \u0917\u0902\u0924\u0935\u094d\u200d\u092f \u092a\u0930 \u091c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u200d\u090f \u0935\u0948\u0915\u0932\u094d\u200d\u092a\u200d\u093f\u0915 \u0935\u094d\u200d\u092f\u0935\u0938\u094d\u200d\u0925\u093e \u0915\u0930 \u0938\u0915\u0947\u0917\u093e.",
+            "timestamp": "2026-03-24T08:43:59+00:00",
+            "has_media": false
+        },
+        {
+            "id": "36da77b9ebb401751ba31e915cda863e",
+            "url": "https://t.me/ZeeNews/37732",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "Shala Darpan 5th 8th Results 2026: \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092c\u094b\u0930\u094d\u0921 \u0915\u0915\u094d\u0937\u093e 5\u0935\u0940\u0902 \u0914\u0930 8\u0935\u0940\u0902 \u0915\u0947 \u092a\u0930\u093f\u0923\u093e\u092e \u091c\u093e\u0930\u0940, \u0910\u0938\u0947 \u091a\u0947\u0915 \u0915\u0930 \u0938\u0915\u0947\u0902\u0917\u0947 \u0930\u093f\u091c\u0932\u094d\u091f https://zeenews.india.com/hindi/career/education/rajasthan-board-shala-darpan-class-5th-8th-results-2026-today-at-rajshaladarpan-nic-in-scorecard-download/3152027 RBSE Shala Darpan 5th 8th Results 2026: \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 \u092c\u094b\u0930\u094d\u0921 \u0915\u0915\u094d\u0937\u093e 5\u0935\u0940\u0902 \u0914\u0930 8\u0935\u0940\u0902 \u0915\u0947 \u092a\u0930\u093f\u0923\u093e\u092e\u094b\u0902 \u0915\u0940 \u0918\u094b\u0937\u0923\u093e 24 \u092e\u093e\u0930\u094d\u091a, \u092e\u0902\u0917\u0932\u0935\u093e\u0930 2026 \u0915\u094b \u0915\u0930 \u0926\u0940 \u0917\u0908 \u0939\u0948. \u0936\u093e\u0932\u093e \u0926\u0930\u094d\u092a\u0923 5\u0935\u0940\u0902 8\u0935\u0940\u0902 \u092a\u0930\u093f\u0923\u093e\u092e 2026 \u0915\u094b \u091a\u0947\u0915 \u0914\u0930 \u0921\u093e\u0909\u0928\u0932\u094b\u0921 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0906\u0907\u090f \u0906\u0938\u093e\u0928 \u0924\u0930\u0940\u0915\u093e \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902.",
+            "timestamp": "2026-03-24T08:42:59+00:00",
+            "has_media": false
+        },
+        {
+            "id": "46367bfdc6c5ab1ee4166984e7535399",
+            "url": "https://t.me/ZeeNews/37731",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "\u0916\u093e\u0921\u093c\u0940 \u0915\u0940 \u0932\u0921\u093c\u093e\u0908-\u092a\u093e\u0928\u0940 \u092a\u0930 \u0906\u0908! \u0908\u0930\u093e\u0928 \u0915\u0940 \u0928\u0908 \u0927\u092e\u0915\u0940 \u0938\u0947 \u0938\u0942\u0916\u093e \u0905\u0930\u092c \u0926\u0947\u0936\u094b\u0902 \u0915\u093e \u0917\u0932\u093e; \u0938\u0924\u093e\u0928\u0947 \u0932\u0917\u093e \u0915\u093e \u0921\u0930 https://zeenews.india.com/hindi/world/iran-has-threatened-to-blow-up-water-desalination-plants-in-gulf-countries-in-response-to-trump-48-hours-ultim/3152004 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0940 \u0927\u092e\u0915\u0940 \u0915\u0947 \u091c\u0935\u093e\u092c \u092e\u0947\u0902 \u0908\u0930\u093e\u0928 \u0928\u0947 \u092d\u0940 \u0910\u0938\u093e \u091c\u0935\u093e\u092c\u0940 \u0927\u092e\u0915\u0940 \u0926\u0940 \u0939\u0948 \u0915\u093f \u0916\u093e\u0921\u093c\u0940 \u0915\u0947 \u0926\u0947\u0936\u094b\u0902 \u0915\u093e \u0917\u0932\u093e \u0938\u0942\u0916 \u0917\u092f\u093e \u0939\u0948. \u0908\u0930\u093e\u0928 \u0928\u0947 \u0915\u0939\u093e \u0915\u093f \u0909\u0938\u0915\u0947 \u092a\u0949\u0935\u0930 \u092a\u094d\u0932\u093e\u0902\u091f\u094d\u0938 \u0915\u094b \u0928\u093f\u0936\u093e\u0928\u093e \u092c\u0928\u093e\u092f\u093e \u091c\u093e\u090f\u0917\u093e \u0924\u094b \u0935\u094b \u092d\u0940 \u092e\u093f\u0921\u093f\u0932 \u0908\u0938\u094d\u091f \u0915\u0947 \u092a\u0949\u0935\u0930 \u092a\u094d\u0932\u093e\u0902\u091f\u094d\u0938 \u0915\u094b \u0928\u0939\u0940\u0902 \u091b\u094b\u0921\u093c\u0947\u0917\u093e.",
+            "timestamp": "2026-03-24T08:41:59+00:00",
+            "has_media": false
+        },
+        {
+            "id": "b5f34980df610e41aeca3f03d69f78ee",
+            "url": "https://t.me/OSINTWarfare/3972",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Footage shows the wreckage of a U.S. LUCAS (Low-Cost Unmanned Aerial System) loitering munition, a modular, low-cost analogue of the Shahed-136, downed by Iranian air defenses on Qeshm Island.",
+            "timestamp": "2026-03-23T20:26:28+00:00",
+            "has_media": true
+        },
+        {
+            "id": "2dd9a99d7465e13d9ed941d6db88b2e8",
+            "url": "https://t.me/aljazeeraglobal/131119",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "AJ+ (Youtube) Brazil\u2019s president warns of \u201cnew colonization\u201d as global powers race for critical minerals \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T01:03:53+00:00",
+            "has_media": false
+        },
+        {
+            "id": "335d6336209b866df7328e376b8c3453",
+            "url": "https://t.me/monitor_the_situation/4965",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Forces Strike IRGC Intelligence Headquarters in Tehran Iran IDF confirms strike on Iranian Revolutionary Guard Corps intelligence headquarters in Tehran amid ongoing regional conflict. The attack targets a key military intelligence facility, with live updates reporting the incident. \ud83d\udccd Tehran, Iran \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:45:31+00:00",
+            "has_media": true
+        },
+        {
+            "id": "9d851672ad23cd716749007a492d1789",
+            "url": "https://t.me/monitor_the_situation/4964",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Russian Shahed Drone Strikes High-Rise in Dnipro Ukraine A Russian Shahed drone hit a high-rise building in Dnipro during a morning UAV attack, with approximately 40 more drones reported in Ukrainian airspace. Casualty figures are still being clarified amid ongoing Russian aerial operations. \ud83d\udccd Dnipro, Ukraine \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:43:52+00:00",
+            "has_media": true
+        },
+        {
+            "id": "7323026c5c0ad3537869d8da4c6ac4a9",
+            "url": "https://t.me/monitor_the_situation/4963",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Russian State TV Discusses Seizing Narva Estonia to Pressure NATO Russian state television propagandists proposed crossing the border bridge into Estonia's city of Narva to break Europe's political will and pressure NATO, framing it as a limited action to impose political defeat without broader escalation. \ud83d\udccd Narva, Estonia \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:42:43+00:00",
+            "has_media": true
+        },
+        {
+            "id": "3c8dccddd0a2e78868a83df13d312e20",
+            "url": "https://t.me/monitor_the_situation/4962",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Saudi Arabia and UAE Plan to Join War Against Iran Saudi Arabia and the United Arab Emirates are reportedly planning to enter the war against Iran, with Saudi already permitting US forces to use its bases according to WSJ. This potential escalation involves key Gulf powers amid ongoing US-Iran and Israel-Iran hostilities. \ud83d\udccd Riyadh, Saudi Arabia \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @IranObserver0 View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:40:41+00:00",
+            "has_media": true
+        },
+        {
+            "id": "9107a4c8f1c7096e1ce9a27a93070d58",
+            "url": "https://t.me/monitor_the_situation/4961",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Attack Reported on Khorramshahr Power Plant in Iran Local official states no disruption occurred at the Khorramshahr power plant following an attack, amid ongoing strikes on Iranian energy infrastructure. This incident is distinct from other reported attacks in Tabriz and central Tehran. \ud83d\udccd Khorramshahr, Iran \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:37:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "0f76af733cbb3fff2a07c2a6610ff271",
+            "url": "https://t.me/monitor_the_situation/4960",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Israeli Man Charged for Forging Documents on Raisi Helicopter Crash An Israeli man in Jerusalem used ChatGPT to create fake classified military documents falsely claiming Israel caused the 2024 helicopter crash that killed former Iranian President Ebrahim Raisi. Prosecutors have indicted him for the forgery. \ud83d\udccd Jerusalem, Israel \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @FaytuksNetwork View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:34:28+00:00",
+            "has_media": true
+        },
+        {
+            "id": "f53261b12c1ab574fd0cfc6eb1e724e9",
+            "url": "https://t.me/aljazeeraglobal/131118",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "AJ+ (Youtube) Francesca Albanese denounces Israel\u2019s systematic torture of Palestinians \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T01:03:51+00:00",
+            "has_media": false
+        },
+        {
+            "id": "5ac82286353b15c77478461d1984bf27",
+            "url": "https://t.me/aljazeeraglobal/131117",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "AJ+ (Youtube) Israeli Genocide Set \u2018Horrifying\u2019 Precedent \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T01:03:50+00:00",
+            "has_media": false
+        },
+        {
+            "id": "bb0dffded4776b6b01f10424a232b623",
+            "url": "https://t.me/aljazeeraglobal/131116",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Iranian officials dismiss claims of US talks \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-23T23:44:43+00:00",
+            "has_media": false
+        },
+        {
+            "id": "684c91ffd05266e8feed65424293d652",
+            "url": "https://t.me/aljazeeraglobal/131115",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Moment missile strikes shortly after Israeli president\u2019s visit \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-23T23:44:25+00:00",
+            "has_media": false
+        },
+        {
+            "id": "8a9abe7ef5a0ed5767f3ef1ab4f9dc5e",
+            "url": "https://t.me/monitor_the_situation/4959",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Airstrikes Hit Tyre in Southern Lebanon Israeli forces conducted airstrikes targeting Tyre in southern Lebanon amid ongoing regional tensions. The strikes mark another escalation in cross-border military actions between Israel and Hezbollah-linked positions. \ud83d\udccd Tyre, Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:31:42+00:00",
+            "has_media": true
+        },
+        {
+            "id": "826efbf489b4a0cddeacf1bcddc66858",
+            "url": "https://t.me/monitor_the_situation/4958",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 IRGC Officer Warns US of Imminent Quagmire in Middle East A senior Islamic Revolutionary Guard Corps officer states that the US has 'not much time left' to escape a quagmire in the ongoing Middle East conflict. The warning comes amid heightened US military considerations and Iranian responses to recent strikes. \ud83d\udccd Middle East \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:31:09+00:00",
+            "has_media": true
+        },
+        {
+            "id": "9104bd0aa712a0b0fa5a0ac51a82bb0a",
+            "url": "https://t.me/monitor_the_situation/4957",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 US Considers Deploying 82nd Airborne and Marines to Middle East Elite US 82nd Airborne Division and Marine units are under consideration for a potential operation in the Middle East amid escalating regional tensions. This follows recent US special forces deployments and ongoing conflicts involving Iran and Israel. \ud83d\udccd Middle East \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @gulf_news View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:31:06+00:00",
+            "has_media": true
+        },
+        {
+            "id": "d4ad856778ced247807da8655fc5a04f",
+            "url": "https://t.me/monitor_the_situation/4956",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 US Deploys 160th SOAR Special Forces to Middle East US military C-17 aircraft have transported the 160th Special Operations Aviation Regiment and other special forces contingents to the Middle East amid escalating regional tensions involving US-Israel actions against Iran. Deployment tracked via aircraft data. \ud83d\udccd Middle East \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @WarMonitor3 View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:27:11+00:00",
+            "has_media": false
+        },
+        {
+            "id": "9dadfd5814cd1bdc25d743edefa43833",
+            "url": "https://t.me/terroralarm/28420",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddee\ud83c\uddf7 The IDF confirms that 330 out of 470 Iranian missile launchers have been destroyed. While initial barrages at the start of the conflict involved minimum 90 missiles per day, the current rate has slowed to approximately 10 missiles per day as the IAF continues to hunt the remaining 140 launchers.",
+            "timestamp": "2026-03-24T08:23:22+00:00",
+            "has_media": true
+        },
+        {
+            "id": "6306116a0a535a4a0b79970cf7fea143",
+            "url": "https://t.me/monitor_the_situation/4955",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 South Korea Requests Omani Oil and Gas Support Amid US-Israel Iran War South Korean Foreign Minister Cho Hyun asked his Omani counterpart for continued crude oil and liquefied natural gas supplies due to disruptions from US and Israeli military actions against Iran. This diplomatic outreach aims to secure energy imports for South Korea amid escalating Middle East tensions. \ud83d\udccd Seoul, South Korea \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:22:39+00:00",
+            "has_media": true
+        },
+        {
+            "id": "bb09343c12d910a5e90ac97c808ed696",
+            "url": "https://t.me/monitor_the_situation/4954",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Overnight Attacks Kill 6 in Tabriz Iran Overnight attacks in Tabriz, located in Iran's East Azerbaijan Province, resulted in 6 deaths and 9 injuries. The incident follows a recent US-Israeli strike in the same province that killed six. \ud83d\udccd Tabriz, Iran \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:17:49+00:00",
+            "has_media": true
+        },
+        {
+            "id": "27b9c03de3bd40e1f873575c7a24e7f2",
+            "url": "https://t.me/monitor_the_situation/4953",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 US Pressures Ukraine and Russia to Withdraw from Donetsk Region The United States is pressuring both Ukraine and Russia to withdraw forces from the Donetsk region, linking potential security guarantees to a deal amid stalled talks. Washington may exit negotiations to prioritize the Iran conflict, according to sources. \ud83d\udccd Donetsk Region, Ukraine \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:12:48+00:00",
+            "has_media": false
+        },
+        {
+            "id": "1ddb3b384d2c59d65016979bffebb780",
+            "url": "https://t.me/monitor_the_situation/4952",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 North Korea's Kim Jong Un Labels South Korea Most Hostile State Kim Jong-un declared South Korea the 'most hostile state' and warned of merciless consequences if provoked, according to DPRK state media. He reaffirmed North Korea's unchanging nuclear status and vowed to strengthen its deterrent posture amid rising tensions. \ud83d\udccd Pyongyang, North Korea \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:10:35+00:00",
+            "has_media": true
+        },
+        {
+            "id": "73e8f7e250bbde6bbd304d5c3a51db4c",
+            "url": "https://t.me/monitor_the_situation/4951",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Explosion Hits Valero Refinery in Port Arthur Texas An explosion at the Valero Port Arthur refinery triggered a fire at a diesel hydrotreating unit, halting part of its 435,000 bpd capacity. The incident caused oil prices to climb 3-4%, pushing Brent above $100 per barrel. \ud83d\udccd Port Arthur, United States \ud83c\udf0b Disaster \u00b7 S2 - NOTABLE \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T08:08:08+00:00",
+            "has_media": true
+        },
+        {
+            "id": "067d0ccb402bcc1fd000a43b68e825b2",
+            "url": "https://t.me/conflictstracker/3879",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\uddf1\ud83c\uddf9 \ud83c\udde7\ud83c\uddfe \ud83c\uddf7\ud83c\uddfa An unidentified UAV, likely a kamikaze drone, crashed in Lithuania near the Belarus border after breaching its airspace.",
+            "timestamp": "2026-03-24T02:55:48+00:00",
+            "has_media": true
+        },
+        {
+            "id": "ba470539bbaf078ed2c3a2ecfba85551",
+            "url": "https://t.me/conflictstracker/3878",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\uddfa\ud83c\uddf8 A major fire broke out at Valero\u2019s Port Arthur oil refinery in Texas after a reported explosion. The cause remains unknown.",
+            "timestamp": "2026-03-24T02:52:33+00:00",
+            "has_media": true
+        },
+        {
+            "id": "8f8d14c571d626464f641b1078090f76",
+            "url": "https://t.me/conflictstracker/3877",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddee\ud83c\uddf7 Israeli officials believe the U.S. and Iran could hold talks in Islamabad later this week: Reuters",
+            "timestamp": "2026-03-23T20:13:02+00:00",
+            "has_media": false
+        },
+        {
+            "id": "26c608a5a17243de69aed5c39e885404",
+            "url": "https://t.me/terroralarm/28416",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf1 Mossad chief\u2019s assessment: bringing down the Iran's regime could take up to 1 year.",
+            "timestamp": "2026-03-23T21:37:23+00:00",
+            "has_media": true
+        },
+        {
+            "id": "4cfebd12cbee3322ca129f23ea9b8057",
+            "url": "https://t.me/terroralarm/28415",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "1- Rudy Giuliani's paid MEK terrorist talking points are getting old. Iranians chanted \"Pahlavi\" in the streets - not \"Rajavi\", not your cult. 2- Reza Pahlavi didn't sell out to Britain; his father kicked British oil influence out and modernized the country until the coup and revolution. 3- You, Rudy. You've cashed checks from the MEK for years (hundreds of thousands per speech back when they needed delisting), a group once listed as terrorists, accused of cult tactics, forced divorce and marriage, and killing Americans soldiers. Your NCRI alternative has near-zero organic traction inside or outside Iran. They're the ones destabilizing opposition unity for their own power grab.",
+            "timestamp": "2026-03-23T20:38:08+00:00",
+            "has_media": true
+        },
+        {
+            "id": "bc480d1dcf2e59a345f99f8b755dd975",
+            "url": "https://t.me/terroralarm/28414",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "Pay us billions or we\u2019ll keep losing harder! Iran\u2019s Mohsen Rezaei just declared: \"The war continues until the US lifts ALL sanctions AND pays full war damages.\" Regime getting absolutely smoked, proxies erased, oil fields glowing, and they\u2019re still trying to dictate surrender terms like they\u2019re winning!",
+            "timestamp": "2026-03-23T20:21:03+00:00",
+            "has_media": true
+        },
+        {
+            "id": "324ed0887a9f414aeb95fd9cd9512082",
+            "url": "https://t.me/news18/12",
+            "source": "telegram",
+            "channel": "news18",
+            "text": "Dating App \u2013 the first dating app in Telegram to find your Crush in the places you love \u2764\ufe0f @datingapp #dating #love",
+            "timestamp": "2024-07-29T08:52:32+00:00",
+            "has_media": true
+        },
+        {
+            "id": "324ed0887a9f414aeb95fd9cd9512082",
+            "url": "https://t.me/ndtv/12",
+            "source": "telegram",
+            "channel": "ndtv",
+            "text": "Dating App \u2013 the first dating app in Telegram to find your Crush in the places you love \u2764\ufe0f @datingapp #dating #love",
+            "timestamp": "2024-07-29T08:21:15+00:00",
+            "has_media": true
+        },
+        {
+            "id": "6f6a82fa89fef969db96381b5ebe3d4d",
+            "url": "https://t.me/conflictstracker/3876",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddf5\ud83c\uddf0 Pakistan is positioning itself as a mediator between the U.S., Israel, and Iran, proposing to host talks soon, with its army chief and prime minister in contact with both Washington and Tehran.",
+            "timestamp": "2026-03-23T19:54:47+00:00",
+            "has_media": false
+        },
+        {
+            "id": "0b9bff4b7d8826c72b2a07c8b7966e19",
+            "url": "https://t.me/conflictstracker/3875",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#RussiaUkraineWar \ud83c\uddfa\ud83c\udde6 Ukraine faces a diesel shortage for April, unable to afford high prices and lacking domestic refining capacity after Russian strikes.",
+            "timestamp": "2026-03-23T19:13:52+00:00",
+            "has_media": true
+        },
+        {
+            "id": "1801b584061cdbc0be2ff55b59d28336",
+            "url": "https://t.me/conflictstracker/3874",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddfa\ud83c\uddf8 The Pentagon is weighing deploying ~3,000 82nd Airborne paratroopers for potential operations in Iran, including a possible move to seize Kharg Island, with Marines likely leading initial ground efforts: NYT",
+            "timestamp": "2026-03-23T18:57:35+00:00",
+            "has_media": true
+        },
+        {
+            "id": "568d62a75e417ba2cf989d083cf5baf7",
+            "url": "https://t.me/conflictstracker/3873",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddee\ud83c\uddf7 CBS, citing U.S. officials, reports Iran has deployed several underwater mines in the Strait of Hormuz, including domestically produced limpet mines, with estimates ranging up to around a dozen.",
+            "timestamp": "2026-03-23T18:56:51+00:00",
+            "has_media": false
+        },
+        {
+            "id": "6f6a82fa89fef969db96381b5ebe3d4d",
+            "url": "https://t.me/conflictstracker/3872",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddf5\ud83c\uddf0 Pakistan is positioning itself as a mediator between the U.S., Israel, and Iran, proposing to host talks soon, with its army chief and prime minister in contact with both Washington and Tehran.",
+            "timestamp": "2026-03-23T18:56:23+00:00",
+            "has_media": true
+        },
+        {
+            "id": "2e1bedee7e4805f930fd2d89038db74a",
+            "url": "https://t.me/conflictstracker/3871",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddf1\ud83c\udde7 \ud83c\uddee\ud83c\uddf1 Heavy clashes erupt between Hezbollah fighters and Israeli forces in southern Lebanon.",
+            "timestamp": "2026-03-23T18:48:31+00:00",
+            "has_media": false
+        },
+        {
+            "id": "ecd821782900c5f6119ba8bb51bbb3ec",
+            "url": "https://t.me/conflictstracker/3870",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83d\udcc9 \ud83d\udee2 \ud83c\uddee\ud83c\uddf7 \ud83c\uddfa\ud83c\uddf8 Oil prices fell sharply after Trump signaled possible de-escalation with Iran, citing \u201cproductive talks\u201d and ordering a five-day pause on strikes against Iranian energy sites. Markets reacted immediately to easing tensions.",
+            "timestamp": "2026-03-23T18:47:02+00:00",
+            "has_media": true
+        },
+        {
+            "id": "d955b78fa46142f1717d9dba25581a14",
+            "url": "https://t.me/conflictstracker/3869",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf7 The U.S. is aiming to end the war with Iran by April 9, according to Ynet.",
+            "timestamp": "2026-03-23T18:45:42+00:00",
+            "has_media": false
+        },
+        {
+            "id": "c54a7275740c8f5ca7a709ea7af9329d",
+            "url": "https://t.me/conflictstracker/3868",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\udde6\ud83c\uddea \ud83c\uddf8\ud83c\udde9 Le Monde reports the UAE is rerouting weapons supplies to Sudan\u2019s RSF through countries like Ethiopia and the Central African Republic, with linked aircraft making frequent covert flights into the region.",
+            "timestamp": "2026-03-23T18:44:27+00:00",
+            "has_media": true
+        },
+        {
+            "id": "d955b78fa46142f1717d9dba25581a14",
+            "url": "https://t.me/conflictstracker/3867",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf7 The U.S. is aiming to end the war with Iran by April 9, according to Ynet.",
+            "timestamp": "2026-03-23T18:40:28+00:00",
+            "has_media": false
+        },
+        {
+            "id": "2c7c8a4eecd7ce0ac71ba29d09d28ebc",
+            "url": "https://t.me/terroralarm/28413",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf7 Trump says he and the Ayatollah will jointly control the Strait of Hormuz. \ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f",
+            "timestamp": "2026-03-23T19:53:28+00:00",
+            "has_media": false
+        },
+        {
+            "id": "4650dd7e39e04364f6b90d7fd4e288dc",
+            "url": "https://t.me/terroralarm/28412",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 Netanyahu on Trump's ceasefire announcement: \"President Trump believes that there is an opportunity to leverage the great achievements of the IDF and the US military to realize the goals of the war in an agreement... We will continue to attack both in Iran and Lebanon.\"",
+            "timestamp": "2026-03-23T19:19:51+00:00",
+            "has_media": true
+        },
+        {
+            "id": "642c8b9a3026857c777c9785f5363a91",
+            "url": "https://t.me/news18/5",
+            "source": "telegram",
+            "channel": "news18",
+            "text": "\u26a1\ufe0f @news18 \u2014 telegram username is for sell. PRICES: Sale: 375 000$ 12-month rental: 37 500$ https://fragment.com/username/news18 Please contact me if there are any questions: Telegram: @elector Email: elector.ton@icloud.com \u26a0\ufe0f How to buy a Telegram Username on fragment.com",
+            "timestamp": "2023-11-08T16:56:46+00:00",
+            "has_media": false
+        },
+        {
+            "id": "10808006622390a0985e87886608943d",
+            "url": "https://t.me/news18/4",
+            "source": "telegram",
+            "channel": "news18",
+            "text": "Telegram has launched the ability to buy and sell short recognizable @ usernames for personal accounts, public groups and channels. The auction for the best usernames is live on Fragment: https://fragment.com The ownership of these collectible usernames is secured in the immutable ledger of TON, a fast and scalable blockchain network. Owners can add multiple username aliases to their personal account, group or channel. Each collectible name can be accessed with its @username on Telegram, or outside Telegram using links such as username.t.me and t.me/username . For the first time in the history of social media, people have full ownership of their usernames. Long-time Telegram users who have been using short usernames they registered early on can now benefit from\u00a0the platform's growth by selling their usernames in fair, transparent, fully decentralized auctions. TON Blog | TON Price | Stickers | TON Wallet",
+            "timestamp": "2023-11-08T16:56:46+00:00",
+            "has_media": true
+        },
+        {
+            "id": "b379780ceb149fee8eafa37f5dad26e4",
+            "url": "https://t.me/news18/1",
+            "source": "telegram",
+            "channel": "news18",
+            "text": "Channel created",
+            "timestamp": "2023-09-22T19:36:16+00:00",
+            "has_media": false
+        },
+        {
+            "id": "5c77d51f4b72daeab90ba0d0f6ae185e",
+            "url": "https://t.me/timesofindia/1732",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "https://youtu.be/ou3uDjeLTJs",
+            "timestamp": "2022-10-14T06:18:58+00:00",
+            "has_media": false
+        },
+        {
+            "id": "bd656e6b8462c34dba8b904c424df30d",
+            "url": "https://t.me/timesofindia/1731",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "#Pictory #Gurgaon #Gurgaonupdates #Story #Dailyupdates",
+            "timestamp": "2022-10-14T03:33:16+00:00",
+            "has_media": true
+        },
+        {
+            "id": "bd656e6b8462c34dba8b904c424df30d",
+            "url": "https://t.me/timesofindia/1730",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "#Pictory #Gurgaon #Gurgaonupdates #Story #Dailyupdates",
+            "timestamp": "2022-10-10T06:02:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "85566cfb979542d3018b99c7c2b3e18e",
+            "url": "https://t.me/timesofindia/1729",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "#Gurgaon #Dates #Photography #Pictory",
+            "timestamp": "2022-10-07T05:53:55+00:00",
+            "has_media": true
+        },
+        {
+            "id": "476c735df1f0b3d26a76dc23e02a8f9d",
+            "url": "https://t.me/timesofindia/1725",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "Wishing our readers a happy Navratri!",
+            "timestamp": "2022-09-26T00:53:00+00:00",
+            "has_media": true
+        },
+        {
+            "id": "72a8073dcdbad2bf2ef778c22ea3cc78",
+            "url": "https://t.me/timesofindia/1724",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "#Pictory #WeMakeGurgaon #Artist #Sculptor #photography",
+            "timestamp": "2022-09-25T15:52:58+00:00",
+            "has_media": true
+        },
+        {
+            "id": "5961f52c53fc1be6c36b7c74c6b30d98",
+            "url": "https://t.me/timesofindia/1723",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "https://youtu.be/-VSpiF4CMpc",
+            "timestamp": "2022-09-22T02:23:22+00:00",
+            "has_media": false
+        },
+        {
+            "id": "23d33e3b21685015e0a351f7c1b86de5",
+            "url": "https://t.me/timesofindia/1722",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "https://youtu.be/TayqPT49oLY",
+            "timestamp": "2022-09-19T04:35:31+00:00",
+            "has_media": false
+        },
+        {
+            "id": "7bfe1c08e7a1de08741803fb31b1ee5c",
+            "url": "https://t.me/timesofindia/1721",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "Read more on www.toigurgaon.com",
+            "timestamp": "2022-09-13T06:34:46+00:00",
+            "has_media": true
+        },
+        {
+            "id": "7bfe1c08e7a1de08741803fb31b1ee5c",
+            "url": "https://t.me/timesofindia/1720",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "Read more on www.toigurgaon.com",
+            "timestamp": "2022-09-12T07:02:26+00:00",
+            "has_media": true
+        },
+        {
+            "id": "2957b4225f51246ed41cfe7f721749ef",
+            "url": "https://t.me/timesofindia/1719",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "https://toigurgaon.timesgroup.com/post.php?132",
+            "timestamp": "2022-09-11T05:23:49+00:00",
+            "has_media": false
+        },
+        {
+            "id": "10808006622390a0985e87886608943d",
+            "url": "https://t.me/ndtv/4",
+            "source": "telegram",
+            "channel": "ndtv",
+            "text": "Telegram has launched the ability to buy and sell short recognizable @ usernames for personal accounts, public groups and channels. The auction for the best usernames is live on Fragment: https://fragment.com The ownership of these collectible usernames is secured in the immutable ledger of TON, a fast and scalable blockchain network. Owners can add multiple username aliases to their personal account, group or channel. Each collectible name can be accessed with its @username on Telegram, or outside Telegram using links such as username.t.me and t.me/username . For the first time in the history of social media, people have full ownership of their usernames. Long-time Telegram users who have been using short usernames they registered early on can now benefit from\u00a0the platform's growth by selling their usernames in fair, transparent, fully decentralized auctions. TON Blog | TON Price | Stickers | TON Wallet",
+            "timestamp": "2023-10-19T17:18:16+00:00",
+            "has_media": true
+        },
+        {
+            "id": "b379780ceb149fee8eafa37f5dad26e4",
+            "url": "https://t.me/ndtv/1",
+            "source": "telegram",
+            "channel": "ndtv",
+            "text": "Channel created",
+            "timestamp": "2023-09-22T19:29:52+00:00",
+            "has_media": false
+        },
+        {
+            "id": "b379780ceb149fee8eafa37f5dad26e4",
+            "url": "https://t.me/indian_osint/1",
+            "source": "telegram",
+            "channel": "indian_osint",
+            "text": "Channel created",
+            "timestamp": "2024-06-04T03:56:54+00:00",
+            "has_media": false
+        },
+        {
+            "id": "bfaf8c12c5905abe356647d19637fff0",
+            "url": "https://t.me/monitor_the_situation/4950",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Fire Erupts at Bahrain Facility Due to Iranian Aggression Bahrain authorities report a fire breaking out at a facility in Manama, attributing it directly to criminal Iranian aggression amid ongoing regional tensions. This incident follows broader disruptions in cloud services in the country linked to the conflict. \ud83d\udccd Manama, Bahrain \u2694\ufe0f Conflict \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:58:05+00:00",
+            "has_media": true
+        },
+        {
+            "id": "98fa74cca5746d4454bddbe15104db68",
+            "url": "https://t.me/monitor_the_situation/4949",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Energy Infrastructure Attacked in Iran Iranian media reports an attack on energy infrastructure amid ongoing regional conflict. No further details on location, perpetrators, or damage provided. \ud83d\udccd Iran \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:55:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "da86fa00f939de086a6c8cf7a2087599",
+            "url": "https://t.me/monitor_the_situation/4948",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Russia Deploys New Type of Drones in Ukraine Russia introduces a new type of drones for operations in Ukraine, potentially enhancing its unmanned aerial capabilities amid ongoing conflict. This development follows recent large-scale Russian missile and drone attacks on Ukrainian cities. \ud83d\udccd Ukraine \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:55:09+00:00",
+            "has_media": false
+        },
+        {
+            "id": "84792edce3f3650f61b351339528dae1",
+            "url": "https://t.me/monitor_the_situation/4947",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Ukraine Air Force Integrates New Shahed Interceptor Ukraine's Air Force officially adds a new interceptor designed to counter Shahed drones to its arsenal. This enhancement comes as Russia deploys advanced drones and launches frequent attacks on Ukrainian infrastructure. \ud83d\udccd Kyiv, Ukraine \u2694\ufe0f Conflict \u00b7 S2 - NOTABLE \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:55:08+00:00",
+            "has_media": false
+        },
+        {
+            "id": "2752c30c49be4683dcddc6af730a2913",
+            "url": "https://t.me/monitor_the_situation/4946",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Ukraine SBU Uncovers Russian Military Intelligence Spy Network Ukraine's Security Service (SBU) detects and disrupts a spy network linked to Russian military intelligence operating within the country. This counterintelligence operation targets espionage amid heightened Russian aggression. \ud83d\udccd Kyiv, Ukraine \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:55:07+00:00",
+            "has_media": false
+        },
+        {
+            "id": "11e1e806d3064a029d93daa2c8fd6a3b",
+            "url": "https://t.me/monitor_the_situation/4945",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Germany Pledges Funding for 15,000 Interceptors for Ukraine Germany commits to funding 15,000 interceptors to bolster Ukraine's air defenses against Russian missile and drone attacks. The aid aims to support Kyiv amid intensified bombardment including recent strikes on energy infrastructure. \ud83d\udccd Kyiv, Ukraine \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:55:05+00:00",
+            "has_media": false
+        },
+        {
+            "id": "f2fb8fd7eaf3e419c615e071c630dd5b",
+            "url": "https://t.me/monitor_the_situation/4944",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Lubricants Warehouse Burns in Rostov-on-Don Russia A lubricants warehouse in Rostov-on-Don caught fire, likely due to a strike amid escalating attacks on Russian rear areas supporting Ukraine operations. The incident highlights vulnerabilities in logistics supply chains. \ud83d\udccd Rostov-on-Don, Russia \u2694\ufe0f Conflict \u00b7 S2 - NOTABLE \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:54:53+00:00",
+            "has_media": false
+        },
+        {
+            "id": "fcb8c342151ee71f1ed2e9653445d647",
+            "url": "https://t.me/monitor_the_situation/4943",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Drones Strike Fuel Tanks at Primorsk Port Russia Long-range drones hit Russia's Primorsk port overnight, igniting at least four fuel tanks and causing significant damage to energy infrastructure. The attack disrupts key oil export operations in the Gulf of Finland amid ongoing Ukraine conflict. \ud83d\udccd Primorsk, Russia \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:54:52+00:00",
+            "has_media": true
+        },
+        {
+            "id": "b8d2904647c84483ce4b2b1e6264ffcd",
+            "url": "https://t.me/monitor_the_situation/4942",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Strike Damages Substation Near Occupied Melitopol Ukraine A strike targeted and damaged a substation near Russian-occupied Melitopol, disrupting power supply in the area. This follows Ukrainian ombudsman appeals over local trials and indicates continued infrastructure targeting. \ud83d\udccd Melitopol, Ukraine \u2694\ufe0f Conflict \u00b7 S2 - NOTABLE \ud83d\udce1 @NOELreports View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:54:49+00:00",
+            "has_media": false
+        },
+        {
+            "id": "688fb53adcbe83c397cfc0cfa8321128",
+            "url": "https://t.me/monitor_the_situation/4941",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 China Protests Japan Over Break-In at Tokyo Embassy China's foreign ministry lodged a strong protest with Japan following a break-in at the Chinese embassy in Tokyo. The incident prompted immediate diplomatic action amid heightened regional tensions. \ud83d\udccd Tokyo, Japan \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:51:26+00:00",
+            "has_media": true
+        },
+        {
+            "id": "c5b00e5cf4dcb11a2f091c0479a03efe",
+            "url": "https://t.me/monitor_the_situation/4940",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Iran Holds Funeral for Sailor Killed in US Strike on IRIS Dena Iran conducted a funeral for a sailor killed in a US strike on the IRIS Dena warship. The ceremony follows the recent attack amid escalating US-Iran tensions in the region. \ud83d\udccd Unknown, Iran \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:50:45+00:00",
+            "has_media": true
+        },
+        {
+            "id": "a4d3a3ea089970e6bf874c7de03013ce",
+            "url": "https://t.me/monitor_the_situation/4939",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Russian Air and Missile Strikes Hit Zaporizhzhia Energy Infrastructure Ukraine Russia launched a combined air and missile attack targeting Ukraine's energy infrastructure overnight, causing a fire in a high-rise residential building in Zaporizhzhia where cars were also burned. The strikes represent another escalation in attacks on civilian and critical infrastructure. \ud83d\udccd Zaporizhzhia, Ukraine \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @visionergeo View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:47:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "33790149abdb71808813896567225de6",
+            "url": "https://t.me/monitor_the_situation/4938",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Airstrikes Destroy Bridge and Homes Near Beirut Lebanon Israeli air attacks targeted a bridge and residential homes in the Beirut area, causing structural damage amid ongoing regional conflict. Reports indicate no immediate casualty figures, but the strikes add to escalating tensions in Lebanon. \ud83d\udccd Beirut, Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:45:48+00:00",
+            "has_media": true
+        },
+        {
+            "id": "8702ede0019f09b23e17667f1fa49d8e",
+            "url": "https://t.me/monitor_the_situation/4937",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Air Force Strikes Iranian Regime Facilities in Central Tehran Israeli Air Force completed a wave of extensive airstrikes yesterday targeting infrastructure of the Iranian regime in central Tehran. The operation marks a significant escalation in the ongoing conflict between Israel and Iran. \ud83d\udccd Central Tehran, Iran \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @IAFsite View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:44:42+00:00",
+            "has_media": true
+        },
+        {
+            "id": "004f631b91f137405dd20ac4273db335",
+            "url": "https://t.me/conflictstracker/3884",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\udde8\ud83c\uddf3 China is mapping large sections of the ocean floor using dozens of research vessels, a move experts say could enhance its underwater warfare capabilities against the United States: Reuters",
+            "timestamp": "2026-03-24T07:41:01+00:00",
+            "has_media": false
+        },
+        {
+            "id": "929551d753af9a8488cb3c9af8e8f711",
+            "url": "https://t.me/conflictstracker/3883",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\uddf5\ud83c\udded Philippine President: Aircraft may be grounded due to fuel shortages caused by the Iran war, as several countries have told our airlines they cannot refuel their planes.",
+            "timestamp": "2026-03-24T07:36:22+00:00",
+            "has_media": false
+        },
+        {
+            "id": "f724c1d867e5c6b9557169cd6a71f93d",
+            "url": "https://t.me/monitor_the_situation/4936",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 US Airstrike on PMF Base Near Baghdad Iraq Kills 14 A US airstrike targeted a base of the Popular Mobilization Forces (PMF) in Iraq, with the death toll rising to 14. The strike is part of ongoing regional tensions amid the US-Iran conflict. \ud83d\udccd Baghdad, Iraq \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:35:49+00:00",
+            "has_media": true
+        },
+        {
+            "id": "4a17f47a70a959daa0db8aad212d6887",
+            "url": "https://t.me/timesofindia/1717",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "#Encroached footpaths of Gurgaon",
+            "timestamp": "2022-09-09T04:53:54+00:00",
+            "has_media": false
+        },
+        {
+            "id": "32d878c8142ff9204105c325ca49b5b9",
+            "url": "https://t.me/timesofindia/1715",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "Times Poll: https://timespoll.timestream.in/poll/what-s-the-main-problem-you-face-on-gurgaon-s-footpaths-29",
+            "timestamp": "2022-09-05T02:22:46+00:00",
+            "has_media": false
+        },
+        {
+            "id": "76b447833f00d059607eb92e3f02f869",
+            "url": "https://t.me/timesofindia/1714",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "https://youtu.be/El9Kk88KhkI",
+            "timestamp": "2022-09-05T02:01:44+00:00",
+            "has_media": false
+        },
+        {
+            "id": "903f639ce67173a44f8f7a694539a208",
+            "url": "https://t.me/timesofindia/1713",
+            "source": "telegram",
+            "channel": "timesofindia",
+            "text": "Share you story on www.toigurgaon.com",
+            "timestamp": "2022-09-04T04:46:22+00:00",
+            "has_media": true
+        },
+        {
+            "id": "f4622b87327b82f07b3eb34a1ccc2aca",
+            "url": "https://t.me/conflictstracker/3882",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#BreakingNews \ud83c\udde6\ud83c\uddfa Australian media reports fuel shortages as petrol and diesel supplies begin running low across the country, with hundreds of stations already out of stock.",
+            "timestamp": "2026-03-24T07:31:02+00:00",
+            "has_media": false
+        },
+        {
+            "id": "ba1f26567aee341eab610ca3de2f491e",
+            "url": "https://t.me/monitor_the_situation/4935",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Iran Arrests Three for Alleged Spying in Shahroud Iranian officials detained three individuals in Shahroud on suspicion of espionage amid heightened regional tensions. The arrests highlight ongoing internal security measures in Iran. \ud83d\udccd Shahroud, Iran \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:30:45+00:00",
+            "has_media": true
+        },
+        {
+            "id": "67357300daa9e125d5df0d1a198d9891",
+            "url": "https://t.me/monitor_the_situation/4934",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Airstrikes Target Outskirts of Hermel, Northeastern Lebanon Two Israeli airstrikes struck the outskirts of Hermel city in northeastern Lebanon. The strikes targeted areas amid ongoing regional conflict tensions. \ud83d\udccd Hermel, Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AMK_Mapping_ View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:25:44+00:00",
+            "has_media": false
+        },
+        {
+            "id": "cab116045632d300430cb5ac34e71114",
+            "url": "https://t.me/monitor_the_situation/4933",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Severe Flooding Kills 84 in Kisumu, Tana River and Uasin Gishu Counties Kenya Severe flooding has devastated parts of Kenya\u2019s Kisumu, Tana River, and Uasin Gishu counties, raising the death toll to 84. The disaster has prompted emergency responses amid ongoing heavy rains. \ud83d\udccd Kisumu, Tana River and Uasin Gishu Counties, Kenya \ud83c\udf0b Disaster \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:20:44+00:00",
+            "has_media": true
+        },
+        {
+            "id": "5ea5b6e6bfe12c84b842621abc2d06c3",
+            "url": "https://t.me/terroralarm/28419",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf1 6 Israeli civilians lightly injured at multiple missile-related impact sites in Tel Aviv.",
+            "timestamp": "2026-03-24T07:16:16+00:00",
+            "has_media": false
+        },
+        {
+            "id": "bddf76f7afe14226fe1b65cb22eaaf45",
+            "url": "https://t.me/ndtv/5",
+            "source": "telegram",
+            "channel": "ndtv",
+            "text": "\u26a1\ufe0f @ndtv \u2014 telegram username is for sell. PRICES: Sale: 375 000$ 12-month rental: 37 500$ https://fragment.com/username/ndtv Please contact me if there are any questions: Telegram: @elector Email: elector.ton@icloud.com \u26a0\ufe0f How to buy a Telegram Username on fragment.com",
+            "timestamp": "2023-10-19T17:18:16+00:00",
+            "has_media": false
+        },
+        {
+            "id": "0ca8513d7e885c7c51f8dd982ecd06cb",
+            "url": "https://t.me/terroralarm/28418",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf7 \ud83c\uddf1\ud83c\udde7 IDF: Iran\u2019s IRGC has launched ballistic missiles toward Lebanon.",
+            "timestamp": "2026-03-24T07:13:36+00:00",
+            "has_media": true
+        },
+        {
+            "id": "3f65c713fe390246ce5eac2ba98d46ca",
+            "url": "https://t.me/monitor_the_situation/4932",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 EU President Calls for Opening Strait of Hormuz and Ending Middle East War EU President urges the reopening of the Strait of Hormuz amid ongoing regional conflict and calls for an end to the Middle East war. The statement addresses Iran's recent claim of full control over the strait, highlighting international concerns over maritime security and escalation. \ud83d\udccd Strait of Hormuz, International Waters \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:10:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "75655d72e6bf0eff8043b20bd66e4835",
+            "url": "https://t.me/monitor_the_situation/4931",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Iran Energy Minister Claims Power Plants Can Be Quickly Rebuilt Iran's Energy Minister stated that damaged power plants can be rapidly reconstructed amid ongoing Israeli airstrikes on Tehran. The comment addresses concerns over infrastructure destruction in the escalating US-Iran conflict. \ud83d\udccd Tehran, Iran \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T07:06:11+00:00",
+            "has_media": true
+        },
+        {
+            "id": "4546e8dc981126c0d76720a9753b7154",
+            "url": "https://t.me/monitor_the_situation/4930",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 US-Israeli Strike Kills Six in East Azerbaijan Province Iran Iran reports six people killed in a US-Israeli strike targeting East Azerbaijan Province. The attack adds to ongoing military operations amid the escalating US-Iran conflict. \ud83d\udccd East Azerbaijan Province, Iran \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T06:45:57+00:00",
+            "has_media": true
+        },
+        {
+            "id": "a27af918fb874459c37cc933b47810ec",
+            "url": "https://t.me/conflictstracker/3866",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddfa\ud83c\uddf8 \ud83c\uddf9\ud83c\uddf7 \ud83c\uddea\ud83c\uddec \ud83c\uddf5\ud83c\uddf0 \ud83c\uddee\ud83c\uddf7 Axios reports that T\u00fcrkiye, Egypt, and Pakistan have been acting as intermediaries, relaying messages between the U.S. and Iran over the past two days to help ease tensions.",
+            "timestamp": "2026-03-23T18:38:58+00:00",
+            "has_media": false
+        },
+        {
+            "id": "7399155291fb11b40dd7b085b28780f3",
+            "url": "https://t.me/ZeeNews/37721",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "IPL 2026 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u0941\u0906 \u0915\u0930\u093f\u0936\u094d\u092e\u093e! \u0907\u0928 \u0926\u094b \u092c\u0932\u094d\u0932\u0947\u092c\u093e\u091c\u094b\u0902 \u0928\u0947 \u0915\u0940 629 \u0930\u0928\u094b\u0902 \u0915\u0940 \u0930\u093f\u0915\u0949\u0930\u094d\u0921\u0924\u094b\u095c \u092a\u093e\u0930\u094d\u091f\u0928\u0930\u0936\u093f\u092a, \u090f\u0915 \u0928\u0947 \u092c\u0928\u093e \u0921\u093e\u0932\u0947 340 \u0930\u0928 https://zeenews.india.com/hindi/sports/cricket/historic-partnership-before-ipl-2025-two-batsmen-added-629-runs-in-australia-premium-grade-cricket/3151285 629 Runs Partnership: \u0906\u0908\u092a\u0940\u090f\u0932 2026 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u0915\u0947 \u092e\u0948\u0926\u093e\u0928 \u092a\u0930 \u0926\u094b \u092c\u0932\u094d\u0932\u0947\u092c\u093e\u091c\u094b\u0902 \u0928\u0947 \u0915\u094b\u0939\u0930\u093e\u092e \u092e\u091a\u093e\u0924\u0947 \u0939\u0941\u090f \u0907\u0924\u093f\u0939\u093e\u0938 \u0930\u091a \u0926\u093f\u092f\u093e. \u0911\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e \u092a\u094d\u0930\u0940\u092e\u093f\u092f\u0930 \u0932\u0940\u0917 \u0915\u094d\u0930\u093f\u0915\u0947\u091f \u092e\u0947\u0902\u00a0\u0939\u094d\u092f\u0942\u0917\u094b \u092c\u0930\u094d\u0921\u0928 \u0914\u0930\u00a0\u0938\u094d\u091f\u0940\u092b\u0928 \u092e\u0941\u0932\u0930 \u0928\u0947\u00a0629 \u0930\u0928\u094b\u0902 \u0915\u0940 \u092a\u093e\u0930\u094d\u091f\u0928\u0930\u0936\u093f\u092a \u0915\u0930 34 \u0938\u093e\u0932 \u092a\u0941\u0930\u093e\u0928\u093e \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u0927\u094d\u0935\u0938\u094d\u0924 \u0915\u0930 \u0926\u093f\u092f\u093e.\u00a0\u092e\u0941\u0932\u0930 492 \u0917\u0947\u0902\u0926\u094b\u0902 \u092a\u0930 272 \u0930\u0928 \u092c\u0928\u093e\u0915\u0930 \u0928\u093e\u092c\u093e\u0926 \u0930\u0939\u0947, \u091c\u092c\u0915\u093f \u092c\u0930\u094d\u0921\u0928 \u0928\u0947 340 \u0930\u0928 \u092c\u0928\u093e\u090f.",
+            "timestamp": "2026-03-23T15:43:57+00:00",
+            "has_media": false
+        },
+        {
+            "id": "f39ea0aec2a1967067191a1760a044b7",
+            "url": "https://t.me/ZeeNews/37720",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "US-Iran War: \u0915\u094d\u092f\u093e 118 \u0918\u0902\u091f\u0947 \u092c\u093e\u0926 \u0939\u094b\u0930\u094d\u092e\u0941\u091c \u092a\u0930 \u0917\u093f\u0930\u0947\u0917\u093e \u092e\u0939\u093e\u092c\u092e? \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u0928\u090f \u0905\u0932\u094d\u091f\u0940\u092e\u0947\u091f\u092e \u0928\u0947 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u092e\u091a\u093e\u0908 \u0916\u0932\u092c\u0932\u0940 https://zeenews.india.com/hindi/world/what-will-happen-in-iran-us-israel-war-after-118-hours-all-you-need-to-know/3151231 Middle East War: \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u0908\u0930\u093e\u0928 \u092f\u0941\u0926\u094d\u0927 \u092a\u0930 \u0926\u093f\u090f \u092c\u092f\u093e\u0928 \u0915\u0947 \u092c\u093e\u0926 \u0939\u0932\u091a\u0932 \u0924\u0947\u091c \u0939\u094b \u0917\u0908 \u0939\u0948. \u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u0908\u0930\u093e\u0928 \u0915\u0947 \u0938\u093e\u0925 \u0905\u091a\u094d\u091b\u0940 \u0935\u093e\u0930\u094d\u0924\u093e \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948. \u0932\u093f\u0939\u093e\u091c\u093e \u0905\u0917\u0932\u0947 5 \u0926\u093f\u0928 \u0915\u0947 \u0932\u093f\u090f \u0908\u0930\u093e\u0928 \u0915\u0947 \u092a\u093e\u0935\u0930 \u092a\u094d\u0932\u093e\u0902\u091f\u094d\u0938 \u0914\u0930 \u090f\u0928\u0930\u094d\u091c\u0940 \u0907\u0928\u094d\u092b\u094d\u0930\u093e\u0938\u094d\u091f\u094d\u0930\u0915\u094d\u091a\u0930 \u092a\u0930 \u0939\u092e\u0932\u0947 \u092d\u0940 \u0930\u094b\u0915 \u0926\u093f\u090f \u0917\u090f \u0939\u0948\u0902.",
+            "timestamp": "2026-03-23T15:42:57+00:00",
+            "has_media": false
+        },
+        {
+            "id": "b18bcdd35886eb98b83f6cc46aa7e037",
+            "url": "https://t.me/ZeeNews/37719",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "\u092e\u0939\u093f\u0932\u093e \u0906\u0930\u0915\u094d\u0937\u0923 \u0938\u0902\u0936\u094b\u0927\u0928 \u092c\u093f\u0932 \u0915\u093e \u0930\u093e\u0938\u094d\u0924\u093e \u0938\u093e\u092b, \u0938\u0902\u0938\u0926 \u092e\u0947\u0902 50% \u0938\u0940\u091f\u094b\u0902 \u0915\u093e \u0939\u094b\u0917\u093e \u0907\u091c\u093e\u092b\u093e; \u0915\u094d\u092f\u093e \u0939\u0948 \u0938\u0930\u0915\u093e\u0930 \u0915\u093e 50+33 \u092b\u0949\u0930\u094d\u092e\u0942\u0932\u093e? https://zeenews.india.com/hindi/india/womens-reservation-amendment-bill-modi-govt-plans-50-percentage-lok-sabha-seat-hike-for-33-percent-quota-assem/3151230 Nari Shakti Vandan Adhiniyam Kya Hai: \u092d\u093e\u0930\u0924\u0940\u092f \u0930\u093e\u091c\u0928\u0940\u0924\u093f \u0914\u0930 \u0938\u0902\u0938\u0926\u0940\u092f \u0907\u0924\u093f\u0939\u093e\u0938 \u092e\u0947\u0902 \u0910\u0924\u093f\u0939\u093e\u0938\u093f\u0915 \u092c\u0926\u0932\u093e\u0935 \u0915\u094b \u091c\u0932\u094d\u0926 \u0938\u0947 \u091c\u0932\u094d\u0926 \u0932\u093e\u0917\u0942 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0915\u0947\u0902\u0926\u094d\u0930 \u0938\u0930\u0915\u093e\u0930 \u0928\u0947 2029 \u0915\u0947 \u0906\u092e \u091a\u0941\u0928\u093e\u0935\u094b\u0902 \u0938\u0947 \u092a\u0939\u0932\u0947 \u092e\u0939\u093f\u0932\u093e \u0906\u0930\u0915\u094d\u0937\u0923 \u0915\u093e\u0928\u0942\u0928 (\u0928\u093e\u0930\u0940 \u0936\u0915\u094d\u0924\u093f \u0935\u0902\u0926\u0928 \u0905\u0927\u093f\u0928\u093f\u092f\u092e) \u0915\u094b \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u091c\u092e\u0940\u0928 \u092a\u0930 \u0909\u0924\u093e\u0930\u0928\u0947 \u0915\u0940 \u0924\u0948\u092f\u093e\u0930\u0940 \u0915\u0930 \u0932\u0940 \u0939\u0948. \u0915\u094d\u092f\u093e \u0939\u0948 \u0938\u0930\u0915\u093e\u0930 \u0915\u093e \u092a\u0942\u0930\u093e \u092a\u094d\u0932\u093e\u0928, \u0906\u0907\u090f \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902.",
+            "timestamp": "2026-03-23T15:41:57+00:00",
+            "has_media": false
+        },
+        {
+            "id": "0936d5e124d7405132037644cd5a5153",
+            "url": "https://t.me/ZeeNews/37718",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "\u091f\u094d\u0930\u0902\u092a \u0915\u093e \u090f\u0915 \u0914\u0930 '\u092c\u092f\u093e\u0928 \u092c\u092e'...  1 \u0910\u0932\u093e\u0928 \u0915\u0947 1 \u0918\u0902\u091f\u0947 \u0915\u0947 \u092d\u0940\u0924\u0930 5 \u092c\u0921\u093c\u0947 \u090f\u0915\u094d\u0936\u0928, \u092d\u093e\u0930\u0924 \u0915\u0947 \u0932\u093f\u090f Good News! https://zeenews.india.com/hindi/world/donald-trump-new-statement-amid-iran-war-impact-on-us-share-market-and-crude-oil-gold-silver-price/3151191 Israel Iran War:\u00a0\u092e\u093f\u0921\u093f\u0932 \u0908\u0938\u094d\u091f \u092e\u0947\u0902 \u091c\u093e\u0930\u0940 \u0938\u0902\u0918\u0930\u094d\u0937 \u0915\u0947 \u092c\u0940\u091a \u0938\u094b\u092e\u0935\u093e\u0930 \u0915\u093e \u0926\u093f\u0928 \u0915\u093e\u092b\u0940 \u0905\u0939\u092e \u0930\u0939\u093e. \u091c\u0902\u0917 \u0915\u0947 24\u0935\u0947\u0902 \u0926\u093f\u0928 \u0905\u092e\u0947\u0930\u093f\u0915\u093e \u0915\u0947 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u0921\u094b\u0928\u093e\u0932\u094d\u0921 \u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0926\u093e\u0935\u093e \u0915\u093f\u092f\u093e \u0939\u0948 \u0908\u0930\u093e\u0928 \u0915\u0947 \u0938\u093e\u0925 \u091f\u0947\u092c\u0932 \u092a\u0930 \u092c\u093e\u0924\u091a\u0940\u0924 \u091c\u093e\u0930\u0940 \u0939\u0948, \u0932\u0947\u0915\u093f\u0928 \u0908\u0930\u093e\u0928 \u0915\u0940 \u0913\u0930 \u0938\u0947 \u0907\u0938 \u092c\u093e\u0924 \u0915\u093e \u0916\u0902\u0921\u0928 \u0915\u0930 \u0926\u093f\u092f\u093e \u0917\u092f\u093e. \u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u091f\u094d\u0930\u0902\u092a \u0915\u0947 \u092c\u092f\u093e\u0928 \u0915\u0947 \u092c\u093e\u0926 \u0915\u091a\u094d\u091a\u0947 \u0924\u0947\u0932 \u0915\u0940 \u0915\u0940\u092e\u0924\u094b\u0902 \u092e\u0947\u0902 \u0930\u093f\u0915\u0949\u0930\u094d\u0921 \u0917\u093f\u0930\u093e\u0935\u091f \u0926\u0947\u0916\u0928\u0947 \u0915\u094b \u092e\u093f\u0932\u0940 \u0939\u0948.",
+            "timestamp": "2026-03-23T15:40:58+00:00",
+            "has_media": false
+        },
+        {
+            "id": "51cec2e6a212cb9b885f1e11031419ca",
+            "url": "https://t.me/ZeeNews/37717",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "'\u0936\u093e\u0939\u0930\u0941\u0916-\u0938\u0932\u092e\u093e\u0928 \u0915\u092d\u0940 \u0926\u094b\u0938\u094d\u0924 \u0928\u0939\u0940\u0902 \u0939\u094b \u0938\u0915\u0924\u0947...' \u0938\u0932\u0940\u092e \u0916\u093e\u0928 \u0915\u0940 \u092f\u0947 \u092d\u0935\u093f\u0937\u094d\u092f\u0935\u093e\u0923\u0940 \u0915\u093f\u0924\u0928\u0940 \u0939\u0941\u0908 \u0938\u091a? \u091c\u093e\u0928\u0947\u0902 \u092a\u0942\u0930\u093e \u0915\u093f\u0938\u094d\u0938\u093e https://zeenews.india.com/hindi/entertainment/bollywood/shah-rukh-khan-and-salman-khan-can-not-be-friends-said-salim-khan-he-says-rishta-sirf-mohabbat-ka-hota-hai/3151100 Shah Rukh And Salman Can't Be Friends:\u00a0\u0936\u093e\u0939\u0930\u0941\u0916 \u0916\u093e\u0928 \u0914\u0930 \u0938\u0932\u092e\u093e\u0928 \u0916\u093e\u0928 \u092d\u0932\u0947 \u0939\u0940 \u092c\u0939\u0941\u0924 \u0905\u091a\u094d\u091b\u0947 \u0926\u094b\u0938\u094d\u0924 \u0939\u094b\u0902 \u0914\u0930 \u0938\u093e\u0925 \u092e\u0947\u0902 \u0907\u0935\u0947\u0902\u091f\u094d\u0938 \u092f\u093e \u0936\u094b\u091c \u092e\u0947\u0902 \u0928\u091c\u0930 \u0906\u0924\u0947 \u0939\u094b\u0902, \u0932\u0947\u0915\u093f\u0928 \u090f\u0915 \u0910\u0938\u093e \u0935\u0915\u094d\u0924 \u092d\u0940 \u0925\u093e \u091c\u092c \u0926\u094b\u0928\u094b\u0902 \u090f\u0915-\u0926\u0942\u0938\u0930\u0947 \u0915\u094b \u0926\u0947\u0916\u0928\u093e \u092d\u0940 \u092a\u0938\u0902\u0926 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u0947 \u0925\u0947. \u0926\u094b\u0928\u094b\u0902 \u0915\u0940 \u0932\u0921\u093c\u093e\u0908 \u092a\u0930 \u0938\u0932\u0940\u092e \u0916\u093e\u0928 \u0928\u0947 \u092c\u092f\u093e\u0928 \u0926\u093f\u092f\u093e \u0925\u093e \u0914\u0930 \u0915\u0939\u093e \u0925\u093e \u0915\u093f \u0915\u092d\u0940 \u092d\u0940 \u0915\u0949\u092e\u094d\u092a\u093f\u091f\u0940\u091f\u0930 \u0926\u094b\u0938\u094d\u0924 \u0928\u0939\u0940\u0902 \u0939\u094b \u0938\u0915\u0924\u0947.",
+            "timestamp": "2026-03-23T15:39:57+00:00",
+            "has_media": false
+        },
+        {
+            "id": "1950ebe01237bf38ee170a938a4ee79b",
+            "url": "https://t.me/ZeeNews/37716",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "Iran US War: \u092c\u092e-\u092e\u093f\u0938\u093e\u0907\u0932\u0947\u0902 \u091b\u094b\u0921\u093c \u091f\u0949\u0915 \u091f\u0947\u092c\u0932 \u092a\u0930 \u0906\u090f \u0908\u0930\u093e\u0928-US! \u091f\u094d\u0930\u0902\u092a \u0928\u0947 5 \u0926\u093f\u0928 \u0915\u0947 \u0932\u093f\u090f \u091f\u093e\u0932\u093e \u0939\u092e\u0932\u0947 \u0915\u093e \u092a\u094d\u0932\u093e\u0928; \u0908\u0930\u093e\u0928 \u092c\u094b\u0932\u093e-\u0939\u092e\u0938\u0947 \u0915\u094b\u0908 \u092c\u093e\u0924\u091a\u0940\u0924 \u0928\u0939\u0940\u0902 \u0939\u094b \u0930\u0939\u0940 https://zeenews.india.com/hindi/world/having-productive-conversations-with-iran-stopped-attack-on-power-plants-for-5-days-said-trump/3151040 Donald Trump: \u0905\u092e\u0947\u0930\u093f\u0915\u0940 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u092a\u0924\u093f \u0921\u094b\u0928\u093e\u0932\u094d\u0921 \u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0915\u0939\u093e \u0939\u0948 \u0915\u093f \u092f\u0942\u090f\u0938 \u0915\u0940 \u0908\u0930\u093e\u0928 \u0915\u0947 \u0938\u093e\u0925 \u0926\u094b \u0926\u093f\u0928 \u0938\u0947 \u0905\u091a\u094d\u091b\u0940 \u092c\u093e\u0924\u091a\u0940\u0924 \u091a\u0932 \u0930\u0939\u0940 \u0939\u0948. \u0932\u093f\u0939\u093e\u091c\u093e \u091f\u094d\u0930\u0902\u092a \u0928\u0947 \u0905\u0917\u0932\u0947 5 \u0926\u093f\u0928 \u0915\u0947 \u0932\u093f\u090f \u0908\u0930\u093e\u0928 \u0915\u0947 \u092a\u093e\u0935\u0930 \u092a\u094d\u0932\u093e\u0902\u091f\u094d\u0938 \u0914\u0930 \u090f\u0928\u0930\u094d\u091c\u0940 \u0907\u0928\u094d\u092b\u094d\u0930\u093e\u0938\u094d\u091f\u094d\u0930\u0915\u094d\u091a\u0930 \u092a\u0930 \u0939\u092e\u0932\u0947 \u0915\u093e \u092a\u094d\u0932\u093e\u0928 \u091f\u093e\u0932 \u0926\u093f\u092f\u093e \u0939\u0948.",
+            "timestamp": "2026-03-23T12:20:27+00:00",
+            "has_media": false
+        },
+        {
+            "id": "1c9e7baaf42008bbffc809c1c02177e8",
+            "url": "https://t.me/ZeeNews/37715",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "PSL \u0938\u0947 \u0928\u093e\u092e \u0935\u093e\u092a\u0938 \u0932\u094b... IPL \u092e\u0947\u0902 \u0927\u092e\u093e\u0932 \u092e\u091a\u093e\u0928\u0947 \u0935\u093e\u0932\u0947 \u0927\u0941\u0930\u0902\u0927\u0930 \u0915\u094b \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u092e\u0947\u0902 \u092e\u093f\u0932\u0940 \u0927\u092e\u0915\u0940, \u091c\u0932\u094d\u0926\u0940 \u0918\u0930 \u0932\u094c\u091f\u0928\u0947 \u0915\u094b \u0915\u0939\u093e https://zeenews.india.com/hindi/sports/cricket/pakistan-based-armed-force-threat-to-david-warner-and-foreign-players-to-withdraw-from-psl/3151039 Pakistan Super League: \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928 \u0938\u0941\u092a\u0930 \u0932\u0940\u0917 \u0915\u0947 \u0905\u0917\u0932\u0947 \u0938\u0940\u091c\u0928 \u092a\u0930 \u0938\u0902\u0915\u091f \u0915\u0947 \u092c\u093e\u0926\u0932 \u092e\u0902\u0921\u0930\u093e \u0930\u0939\u0947 \u0939\u0948\u0902. 26 \u092e\u093e\u0930\u094d\u091a \u0938\u0947 \u0936\u0941\u0930\u0942 \u0939\u094b \u0930\u0939\u0947 \u091f\u0942\u0930\u094d\u0928\u093e\u092e\u0947\u0902\u091f \u0938\u0947 \u092a\u0939\u0932\u0947\u00a0\u0935\u093f\u0926\u0947\u0936\u0940 \u0916\u093f\u0932\u093e\u0921\u093c\u093f\u092f\u094b\u0902\u00a0\u0915\u094b \u0927\u092e\u0915\u0940 \u092e\u093f\u0932\u0940 \u0939\u0948 \u0915\u093f \u0935\u094b PSL 2026 \u0938\u0947 \u0905\u092a\u0928\u093e \u0928\u093e\u092e \u0935\u093e\u092a\u0938 \u0932\u0947 \u0932\u0947\u0902. \u0907\u0938 \u0932\u093f\u0938\u094d\u091f \u092e\u0947\u0902 \u0921\u0947\u0935\u093f\u0921 \u0935\u0949\u0930\u094d\u0928\u0930 \u0914\u0930 \u0938\u094d\u091f\u0940\u0935 \u0938\u094d\u092e\u093f\u0925 \u0915\u093e \u0928\u093e\u092e \u092d\u0940 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948.",
+            "timestamp": "2026-03-23T12:19:27+00:00",
+            "has_media": false
+        },
+        {
+            "id": "52b50f878b0c75866cd1703b393b25f7",
+            "url": "https://t.me/ZeeNews/37714",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "12 \u0917\u0947\u0902\u0926 \u092a\u0930 29 \u0930\u0928... \u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940 \u0928\u0947 \u092c\u0932\u094d\u0932\u0947 \u0938\u0947 \u092e\u091a\u093e\u092f\u093e \u0924\u0942\u092b\u093e\u0928, 241 \u0915\u0947 \u0938\u094d\u091f\u094d\u0930\u093e\u0907\u0915 \u0930\u0947\u091f \u0938\u0947 \u0915\u0940 \u0906\u0924\u093f\u0936\u092c\u093e\u091c\u0940 https://zeenews.india.com/hindi/sports/cricket/ipl-2026-virat-kohli-smashed-12-ball-29-runs-in-warm-up-before-rcb-vs-srh-opening-match/3151036 \u092d\u093e\u0930\u0924 \u0915\u0947 \u0926\u093f\u0917\u094d\u0917\u091c \u092c\u0932\u094d\u0932\u0947\u092c\u093e\u091c \u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940 \u0928\u0947 IPL 2026 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0905\u092a\u0928\u0947 \u0924\u0942\u092b\u093e\u0928\u0940 \u0924\u0947\u0935\u0930 \u0926\u093f\u0916\u093e\u090f \u0939\u0948\u0902. IPL 2026 \u0938\u0940\u091c\u0928 \u0915\u0940 \u0936\u0941\u0930\u0941\u0906\u0924 28 \u092e\u093e\u0930\u094d\u091a \u0938\u0947 \u0939\u094b\u0928\u0947 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948. \u091f\u0942\u0930\u094d\u0928\u093e\u092e\u0947\u0902\u091f \u0915\u0947 \u092a\u0939\u0932\u0947 \u092e\u0941\u0915\u093e\u092c\u0932\u0947 \u092e\u0947\u0902 \u0930\u0949\u092f\u0932 \u091a\u0948\u0932\u0947\u0902\u091c\u0930\u094d\u0938 \u092c\u0947\u0902\u0917\u0932\u0941\u0930\u0941 (RCB) \u0915\u0940 \u092d\u093f\u0921\u093c\u0902\u0924 \u0938\u0928\u0930\u093e\u0907\u091c\u0930\u094d\u0938 \u0939\u0948\u0926\u0930\u093e\u092c\u093e\u0926 (SRH) \u0938\u0947 \u0939\u094b\u0917\u0940. \u0935\u093f\u0930\u093e\u091f \u0915\u094b\u0939\u0932\u0940 \u0928\u0947 IPL 2026 \u0938\u0947 \u092a\u0939\u0932\u0947 \u0930\u0949\u092f\u0932 \u091a\u0948\u0932\u0947\u0902\u091c\u0930\u094d\u0938 \u092c\u0947\u0902\u0917\u0932\u0941\u0930\u0941 (RCB) \u0915\u0947 \u092a\u0939\u0932\u0947 \u0935\u093e\u0930\u094d\u092e-\u0905\u092a \u092e\u0948\u091a \u092e\u0947\u0902 12 \u0917\u0947\u0902\u0926\u094b\u0902 \u092a\u0930 29 \u0930\u0928 \u092c\u0928\u093e\u090f \u0925\u0947.",
+            "timestamp": "2026-03-23T12:18:26+00:00",
+            "has_media": false
+        },
+        {
+            "id": "438708cbdbd58aae63b6b1a18b56e265",
+            "url": "https://t.me/ZeeNews/37713",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "PM Modi on Iran War: '\u0915\u094b\u0935\u093f\u0921 \u092e\u0939\u093e\u092e\u093e\u0930\u0940 \u0915\u0940 \u0924\u0930\u0939 \u0930\u0939\u0928\u093e \u0939\u094b\u0917\u093e \u0905\u0932\u0930\u094d\u091f...', \u0908\u0930\u093e\u0928 \u092f\u0941\u0926\u094d\u0927 \u0915\u094b \u0932\u0947\u0915\u0930 \u0938\u0902\u0938\u0926 \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u092c\u094b\u0932\u0947 \u092a\u0940\u090f\u092e \u092e\u094b\u0926\u0940? https://zeenews.india.com/hindi/india/stand-ready-alert-and-united-like-we-did-during-covid-pandemic-said-pm-modi/3150994 Iran-Israel War: \u0908\u0930\u093e\u0928 \u092f\u0941\u0926\u094d\u0927 \u0915\u0947 \u0915\u093e\u0930\u0923 \u0928 \u0938\u093f\u0930\u094d\u092b \u0926\u0941\u0928\u093f\u092f\u093e \u092c\u0932\u094d\u0915\u093f \u092d\u093e\u0930\u0924 \u0915\u0940 \u092e\u0941\u0936\u094d\u0915\u093f\u0932\u0947\u0902 \u092d\u0940 \u092c\u0922\u093c \u0917\u0908 \u0939\u0948\u0902. \u0910\u0938\u0947 \u092e\u0947\u0902 \u092a\u0940\u090f\u092e \u092e\u094b\u0926\u0940 \u0928\u0947 \u0938\u094b\u092e\u0935\u093e\u0930 \u0915\u094b \u0938\u0902\u0938\u0926 \u092e\u0947\u0902 \u0915\u0939\u093e \u0915\u093f \u092a\u0942\u0930\u0947 \u0926\u0947\u0936 \u0928\u0947 \u092a\u0939\u0932\u0947 \u092d\u0940 \u0915\u094b\u0935\u093f\u0921 \u091c\u0948\u0938\u0940 \u091a\u0941\u0928\u094c\u0924\u093f\u092f\u094b\u0902 \u0915\u093e \u0938\u093e\u092e\u0928\u093e \u0915\u093f\u092f\u093e \u0939\u0948 \u0914\u0930 \u0907\u0938 \u092c\u093e\u0930 \u092d\u0940 \u0927\u0948\u0930\u094d\u092f \u0914\u0930 \u0939\u094c\u0938\u0932\u0947 \u0938\u0947 \u0939\u092e \u0907\u0938\u0915\u093e \u0938\u093e\u092e\u0928\u093e \u0915\u0930\u0947\u0902\u0917\u0947.",
+            "timestamp": "2026-03-23T12:17:26+00:00",
+            "has_media": false
+        },
+        {
+            "id": "8e532d070bdda8b9ad26e36f118af382",
+            "url": "https://t.me/ZeeNews/37712",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "Bihar Board 12th Topper List 2026: \u092c\u093f\u0939\u093e\u0930 \u092c\u094b\u0930\u094d\u0921 \u0915\u0947 \u0928\u090f '\u0938\u0941\u092a\u0930\u0938\u094d\u091f\u093e\u0930\u094d\u0938' \u0915\u093e \u0910\u0932\u093e\u0928! \u0930\u093f\u0924\u0941, \u0906\u0926\u093f\u0924\u094d\u092f \u0914\u0930 \u0928\u093f\u0936\u0941 \u0928\u0947 \u0915\u093f\u092f\u093e \u091f\u0949\u092a; \u0926\u0947\u0916\u0947\u0902 \u092a\u0942\u0930\u0940 \u0932\u093f\u0938\u094d\u091f https://zeenews.india.com/hindi/career/education/bihar-board-12th-result-2026-topper-list-science-arts-commerce/3150865 Bihar Board 12th Topper List 2026: \u092c\u093f\u0939\u093e\u0930 \u092c\u094b\u0930\u094d\u0921 12\u0935\u0940\u0902 \u0930\u093f\u091c\u0932\u094d\u091f 2026 \u092e\u0947\u0902 \u0906\u0926\u093f\u0924\u094d\u092f \u092a\u094d\u0930\u0915\u093e\u0936 \u0905\u092e\u0928 (\u0938\u093e\u0907\u0902\u0938), \u0930\u093f\u0924\u0941 \u0915\u0941\u092e\u093e\u0930\u0940 (\u0906\u0930\u094d\u091f\u094d\u0938) \u0914\u0930 \u0928\u093f\u0936\u0941 \u0915\u0941\u092e\u093e\u0930\u0940 (\u0915\u0949\u092e\u0930\u094d\u0938) \u0928\u0947 \u0930\u093e\u091c\u094d\u092f \u092e\u0947\u0902 \u092a\u094d\u0930\u0925\u092e \u0938\u094d\u0925\u093e\u0928 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930 \u0905\u092a\u0928\u0940 \u092a\u094d\u0930\u0924\u093f\u092d\u093e \u0915\u093e \u092a\u0930\u091a\u092e \u0932\u0939\u0930\u093e\u092f\u093e \u0939\u0948. \u0907\u0928 \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0928\u0947 95% \u0938\u0947 \u0905\u0927\u093f\u0915 \u0905\u0902\u0915 \u0939\u093e\u0938\u093f\u0932 \u0915\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u092d\u0930 \u092e\u0947\u0902 \u0938\u092b\u0932\u0924\u093e \u0915\u0940 \u090f\u0915 \u0928\u0908 \u092e\u093f\u0938\u093e\u0932 \u092a\u0947\u0936 \u0915\u0940 \u0939\u0948.",
+            "timestamp": "2026-03-23T12:16:26+00:00",
+            "has_media": false
+        },
+        {
+            "id": "c5d17b4c738c44e669b8486a4784a464",
+            "url": "https://t.me/OSINTWarfare/3971",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Pure market manipulation. Iran doesn\u2019t even know that it held talks with the United States.",
+            "timestamp": "2026-03-23T16:29:02+00:00",
+            "has_media": false
+        },
+        {
+            "id": "c5d17b4c738c44e669b8486a4784a464",
+            "url": "https://t.me/OSINTWarfare/3969",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "Pure market manipulation. Iran doesn\u2019t even know that it held talks with the United States.",
+            "timestamp": "2026-03-23T13:08:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "a3b5da5d5ef1a6b3b864e511c1d1f97a",
+            "url": "https://t.me/OSINTWarfare/3970",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "The Islamic Revolutionary Guard Corps Aerospace Force has released footage showing the launch of Qiam and Zolfaghar short-range ballistic missiles (SRBMs) toward regional taregts.",
+            "timestamp": "2026-03-23T16:24:09+00:00",
+            "has_media": false
+        },
+        {
+            "id": "4f32581677029189ec7529502371723b",
+            "url": "https://t.me/monitor_the_situation/4929",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Hezbollah Launches Five Attacks on Israeli Positions in Northern Israel Hezbollah announced it conducted five separate attacks targeting Israeli military positions along the northern border. The strikes represent an escalation in cross-border exchanges amid ongoing regional tensions. \ud83d\udccd Northern Israel \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T06:35:53+00:00",
+            "has_media": true
+        },
+        {
+            "id": "f4e164a9641c39a9b8298d416adabb21",
+            "url": "https://t.me/OSINTWarfare/3968",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "The Financial Times reports that the strikes on QatarEnergy\u2019s Ras Laffan Industrial City involved advanced, maneuverable missiles capable of evading U.S.-made MIM-104 Patriot defenses, according to an official briefed on the attack.  There is growing speculation\u2026",
+            "timestamp": "2026-03-23T11:00:22+00:00",
+            "has_media": true
+        },
+        {
+            "id": "5e1067110784e97bd49f97be42e02419",
+            "url": "https://t.me/OSINTWarfare/3966",
+            "source": "telegram",
+            "channel": "OSINTWarfare",
+            "text": "The Financial Times reports that the strikes on QatarEnergy\u2019s Ras Laffan Industrial City involved advanced, maneuverable missiles capable of evading U.S.-made MIM-104 Patriot defenses, according to an official briefed on the attack. There is growing speculation that the Fattah-2 hypersonic glide vehicle (HGV) was used for the first time in the conflict, though I doubt that. There is little strategic logic in expending an expensive HGV on a relatively accessible target.",
+            "timestamp": "2026-03-23T11:00:05+00:00",
+            "has_media": true
+        },
+        {
+            "id": "917efb9fb843cab970d33f49fcd5a06b",
+            "url": "https://t.me/monitor_the_situation/4928",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Russian Drone Attack Kills Passenger on Train in Kharkiv Region Ukraine A Russian drone struck an electric train in Ukraine's northeastern Kharkiv region, killing a 61-year-old passenger. The attack highlights ongoing targeting of civilian infrastructure amid the conflict. \ud83d\udccd Kharkiv Region, Ukraine \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T06:31:36+00:00",
+            "has_media": true
+        },
+        {
+            "id": "b697b829c8be507b6e7b2d9532a4a8ed",
+            "url": "https://t.me/monitor_the_situation/4927",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Military Issues Evacuation Orders in Southern Lebanon IDF orders evacuations for 5 buildings in Borj El Chmali, Tyre, and Maashouq areas of southern Lebanon, likely ahead of potential military action. This follows recent Israeli strikes in the region amid ongoing conflict. \ud83d\udccd Borj El Chmali, Tyre, and Maashouq, Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AMK_Mapping_ View on Monitor The Situation",
+            "timestamp": "2026-03-24T06:20:14+00:00",
+            "has_media": true
+        },
+        {
+            "id": "0301245f0bd5185d19c8a9d3dfc2236e",
+            "url": "https://t.me/monitor_the_situation/4926",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Russia Launches Large-Scale Missile and Drone Attack on Kyiv Ukraine Russia conducted a combined attack last night using ~12 Kh-101 cruise missiles from 2 Tu-160M bombers over the Caspian Sea in Astrakhan Oblast and additional drones targeting Ukraine, with impacts reported in Kyiv. This follows previous strikes but details a distinct new operation with specific launch details. \ud83d\udccd Kyiv, Ukraine \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AMK_Mapping_ View on Monitor The Situation",
+            "timestamp": "2026-03-24T06:17:24+00:00",
+            "has_media": true
+        },
+        {
+            "id": "a1ddf423b7737f273702f862d02c974e",
+            "url": "https://t.me/ZeeNews/37730",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "\u092f\u094c\u0928 \u0909\u0924\u094d\u092a\u0940\u0921\u093c\u0928 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 88 \u0938\u093e\u0932 \u0915\u093e \u092f\u0947 \u090f\u0915\u094d\u091f\u0930 \u0926\u094b\u0937\u0940 \u0915\u0930\u093e\u0930, \u092a\u0940\u0921\u093c\u093f\u0924\u093e \u0915\u094b \u0926\u0947\u0928\u093e \u0939\u094b\u0917\u093e 160 \u0915\u0930\u094b\u0921\u093c \u0915\u093e \u092e\u0941\u0906\u0935\u091c\u093e https://zeenews.india.com/hindi/entertainment/bollywood/88-years-old-actor-bill-cosby-found-liable-in-sexual-assault-lawsuit-jury-awards-victim-19-million-american-do/3151793 \u0939\u0949\u0932\u0940\u0935\u0941\u0921 \u0938\u094d\u091f\u093e\u0930 \u0921\u094b\u0928\u093e \u092e\u094b\u091f\u094d\u0938\u093f\u0902\u0917\u0930 \u0915\u0947 \u0938\u093e\u0925 \u092f\u094c\u0928 \u0909\u0924\u094d\u092a\u0940\u0921\u093c\u0928 \u0914\u0930 \u0939\u092e\u0932\u093e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f 88 \u0938\u093e\u0932 \u0915\u0947 \u092c\u093f\u0932 \u0915\u0949\u0938\u094d\u092c\u0940 \u0915\u094b \u0926\u094b\u0937\u0940 \u0915\u0930\u093e\u0930 \u0915\u0930 \u0926\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948. \u092f\u0947 \u092e\u0941\u0915\u0926\u092e\u093e \u092a\u093f\u091b\u0932\u0947 \u0926\u094b \u0939\u092b\u094d\u0924\u094b\u0902 \u0938\u0947 \u0915\u0948\u0932\u093f\u092b\u094b\u0930\u094d\u0928\u093f\u092f\u093e \u0915\u0947 \u0938\u093e\u0902\u0924\u093e \u092e\u094b\u0928\u093f\u0915\u093e \u092e\u0947\u0902 \u091a\u0932 \u0930\u0939\u093e \u0925\u093e.",
+            "timestamp": "2026-03-24T06:06:21+00:00",
+            "has_media": false
+        },
+        {
+            "id": "ab9812b88388e9140db532b47e0f1aa8",
+            "url": "https://t.me/monitor_the_situation/4925",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Cloud Services Disrupted in Bahrain Amid Regional Conflict Firms are shifting workloads due to cloud disruptions in Bahrain's AWS region, linked to ongoing drone activity and conflict risks in the area. The outage follows recent air raid alerts and security threats in Manama. \ud83d\udccd Manama, Bahrain \ud83d\udcc8 Economic \u00b7 S2 - NOTABLE \ud83d\udce1 @gulf_news View on Monitor The Situation",
+            "timestamp": "2026-03-24T06:06:14+00:00",
+            "has_media": true
+        },
+        {
+            "id": "1bd2549f4a6926b6419ec626519f9561",
+            "url": "https://t.me/ZeeNews/37729",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "111 \u0928\u0939\u0940\u0902, \u0938\u093f\u0930\u094d\u092b 11 \u0935\u093f\u0927\u093e\u092f\u0915 \u0926\u0947 \u0926\u094b...\u090f\u0928\u0915\u093e\u0909\u0902\u091f\u0930 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u093e \u092d\u0940 \u090f\u0928\u0915\u093e\u0909\u0902\u091f\u0930 \u0939\u094b\u0917\u093e; AIMIM \u0928\u0947\u0924\u093e \u0915\u093e \u0935\u093f\u0935\u093e\u0926\u093f\u0924 \u092c\u092f\u093e\u0928 https://zeenews.india.com/hindi/india/up-aimim-chief-haji-shaukat-ali-controversial-statement-over-encounter-and-targeted-to-akhilesh-yadav/3151792 \u0905\u0938\u0926\u0941\u0926\u094d\u0926\u0940\u0928 \u0913\u0935\u0948\u0938\u0940 \u0915\u0940 \u092a\u093e\u0930\u094d\u091f\u0940 \u0915\u0947 \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u0939\u093e\u091c\u0940 \u0936\u094c\u0915\u0924 \u0905\u0932\u0940 \u0928\u0947 \u0908\u0926 \u092e\u093f\u0932\u0928 \u0938\u092e\u093e\u0930\u094b\u0939 \u092e\u0947\u0902 \u0935\u093f\u0935\u093e\u0926\u093f\u0924 \u092c\u092f\u093e\u0928 \u0926\u093f\u092f\u093e \u0939\u0948. \u0909\u0928\u094d\u0939\u094b\u0902\u0928\u0947 \u0905\u0916\u093f\u0932\u0947\u0936 \u092f\u093e\u0926\u0935 \u092a\u0930 \u0924\u0940\u0916\u093e \u0939\u092e\u0932\u093e \u0915\u0930\u0924\u0947 \u0939\u0941\u090f \u0915\u0939\u093e \u0915\u093f \u0939\u092e\u0947\u0902 111 \u0928\u0939\u0940\u0902, \u0938\u093f\u0930\u094d\u092b 11 \u0935\u093f\u0927\u093e\u092f\u0915 \u0926\u0947 \u0926\u094b, \u092b\u093f\u0930 \u090f\u0928\u0915\u093e\u0909\u0902\u091f\u0930 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u094b\u0902 \u0915\u093e \u092d\u0940 \u090f\u0928\u0915\u093e\u0909\u0902\u091f\u0930 \u0939\u094b\u0917\u093e.",
+            "timestamp": "2026-03-24T06:05:21+00:00",
+            "has_media": false
+        },
+        {
+            "id": "69445dc3a7a15d4c5fcce6158bb4171f",
+            "url": "https://t.me/ZeeNews/37728",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "\u0936\u093e\u0902\u0924\u093f \u0928\u094d\u092f\u0942\u091c \u0938\u0947 \u0936\u0947\u092f\u0930 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u092e\u0939\u093e \u092c\u0942\u092e, \u0924\u0942\u092b\u093e\u0928\u0940 \u0924\u0947\u091c\u0940 \u0915\u0947 \u0938\u093e\u0925 \u0916\u0941\u0932\u093e \u0938\u0947\u0902\u0938\u0947\u0915\u094d\u0938, 1100 \u0905\u0902\u0915\u094b\u0902 \u0915\u093e \u0909\u091b\u093e\u0932 https://zeenews.india.com/hindi/business/share-market-jumped-with-more-than-1100-point-after-donald-trump-iran-war-5-days-ceasefire/3151751 Share Market Jumped:\u00a0\u00a0\u0938\u094b\u092e\u0935\u093e\u0930 \u0915\u094b\u00a0 1836 \u0905\u0902\u0915\u094b\u0902 \u0915\u0947 \u0915\u094d\u0930\u0948\u0936 \u0915\u0947 \u0938\u093e\u0925 \u092c\u0902\u0926 \u0939\u0941\u0906 \u0938\u0947\u0902\u0938\u0947\u0915\u094d\u0938 24 \u092e\u093e\u0930\u094d\u091a \u0915\u094b \u0938\u0941\u092c\u0939 9.15 \u092c\u091c\u0947 \u0939\u0930\u0947 \u0928\u093f\u0936\u093e\u0928 \u0915\u0947 \u0938\u093e\u0925 \u0916\u0941\u0932\u093e. \u0938\u0947\u0902\u0938\u0947\u0915\u094d\u0938 \u0928\u0947 1100 \u0905\u0902\u0915\u094b\u0902 \u0915\u0940 \u092c\u0922\u093c\u0924 \u0915\u0947 \u0938\u093e\u0925 \u0913\u092a\u0928\u093f\u0902\u0917 \u0915\u0940.",
+            "timestamp": "2026-03-24T06:04:21+00:00",
+            "has_media": false
+        },
+        {
+            "id": "4f86ce6a39c7a66fdff5b7ad0ade5b65",
+            "url": "https://t.me/ZeeNews/37727",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "\u0928\u093e \u0939\u093f\u0902\u0926\u0940, \u0928\u093e \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940 ! \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e \u091a\u0941\u0928\u093e\u0935 \u092e\u0947\u0902 \u0921\u094d\u092f\u0942\u091f\u0940 \u092a\u0930 \u0932\u0917\u0947 \u091c\u0935\u093e\u0928 \u092c\u0902\u0917\u093e\u0932\u0940 \u092e\u0947\u0902 \u092a\u0942\u091b\u0947\u0902\u0917\u0947 '\u0915\u0947\u092e\u094b\u0928 \u0906\u091b\u0947\u0928... \u091a\u093f\u0902\u0924\u093e \u0915\u094b\u0930\u092c\u0947 \u0928\u093e' https://zeenews.india.com/hindi/india/west-bengal-election-2026-central-forces-will-ask-in-bengali-kyamon-achen/3151701 \u092d\u093e\u0937\u093e \u0915\u093e \u092e\u0941\u0926\u094d\u0926\u093e \u0938\u0902\u0935\u0947\u0926\u0928\u0936\u0940\u0932 \u0939\u094b\u0924\u093e \u0939\u0948. \u092a\u0902\u091c\u093e\u092c \u092e\u0947\u0902 \u092a\u0902\u091c\u093e\u092c\u0940, \u092c\u0902\u0917\u093e\u0932 \u092e\u0947\u0902 \u092c\u0902\u0917\u093e\u0932\u0940, \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u092e\u0947\u0902 \u092e\u0930\u093e\u0920\u0940, \u0924\u092e\u093f\u0932\u0928\u093e\u0921\u0941 \u092e\u0947\u0902 \u0924\u092e\u093f\u0932... \u0910\u0938\u0940 \u092c\u093e\u0924\u0947\u0902 \u0939\u094b\u0924\u0940 \u0939\u0948\u0902 \u0914\u0930 \u0935\u093f\u0935\u093e\u0926 \u092d\u0940 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902. \u0905\u092c \u092c\u0902\u0917\u093e\u0932 \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e \u091a\u0941\u0928\u093e\u0935 \u0915\u094b \u0932\u0947\u0915\u0930 \u0928\u0908 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u092a\u0924\u093e \u091a\u0932\u0940 \u0939\u0948. \u0915\u0942\u091a \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u092f \u092c\u0932\u094b\u0902 \u0938\u0947 \u092c\u0902\u0917\u093e\u0932\u0940 \u092e\u0947\u0902 \u0932\u094b\u0917\u094b\u0902 \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0928\u0947 \u0915\u094b \u0915\u0939\u093e \u0917\u092f\u093e \u0939\u0948.",
+            "timestamp": "2026-03-24T06:03:21+00:00",
+            "has_media": false
+        },
+        {
+            "id": "89bfbf24312d69784b5820938357df86",
+            "url": "https://t.me/ZeeNews/37726",
+            "source": "telegram",
+            "channel": "zeenews",
+            "text": "US-Israel Iran War (Day 25) Live: \u0924\u0947\u0932 \u0915\u0940 \u0915\u092e\u0940 \u0938\u0947 \u0939\u093e\u0939\u093e\u0915\u093e\u0930! \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0947\u0902 \u092a\u0947\u091f\u094d\u0930\u094b\u0932 \u092a\u0902\u092a\u094b\u0902 \u092a\u0930 \u092e\u091a\u0940 \u092d\u0917\u0926\u0921\u093c \u091c\u0948\u0938\u0947 \u0939\u093e\u0932\u093e\u0924 https://zeenews.india.com/hindi/world/live-updates/us-israel-and-iran-war-25th-days-live-updates-in-hindi-middle-east-crisis/3151638 Iran Us Israel War Live Updates: \u0905\u092e\u0947\u0930\u093f\u0915\u093e-\u0907\u091c\u0930\u093e\u092f\u0932 \u0914\u0930 \u0908\u0930\u093e\u0928 \u092f\u0941\u0926\u094d\u0927 \u0906\u091c 25\u0935\u0947\u0902 \u0926\u093f\u0928 \u092e\u0947\u0902 \u0926\u093e\u0916\u093f\u0932 \u0939\u094b \u091a\u0941\u0915\u093e \u0939\u0948. \u0907\u0938 \u091c\u0902\u0917 \u0915\u0947 \u091a\u0932\u0924\u0947 \u0938\u093e\u0930\u0940 \u0926\u0941\u0928\u093f\u092f\u093e \u092e\u0947\u0902 \u0906\u0930\u094d\u0925\u093f\u0915 \u092a\u0930\u0947\u0936\u093e\u0928\u093f\u092f\u094b\u0902 \u0915\u093e \u0938\u093e\u092e\u0928\u093e \u0915\u0930\u0928\u093e \u092a\u0921\u093c \u0930\u0939\u093e, \u0916\u093e\u0938 \u0924\u094c\u0930 \u092a\u0930 \u092e\u093f\u0921\u093f\u0932 \u0908\u0938\u094d\u091f \u092e\u0947\u0902 \u0907\u0938\u0915\u093e \u0905\u0938\u0930 \u0926\u0947\u0916\u0947 \u0915\u094b \u092e\u093f\u0932 \u0930\u0939\u093e \u0939\u0948. \u0907\u0938 \u0932\u093e\u0907\u0935 \u092c\u094d\u0932\u0949\u0917 \u092e\u0947\u0902 \u0939\u092e \u0906\u092a\u0915\u094b \u091c\u0902\u0917 \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u0924\u092e\u093e\u092e \u0905\u092a\u0921\u0947\u091f\u094d\u0938 \u0926\u0947\u0902\u0917\u0947.",
+            "timestamp": "2026-03-24T06:02:22+00:00",
+            "has_media": false
+        },
+        {
+            "id": "29e0a37bc15e973b0e38874221a37e48",
+            "url": "https://t.me/monitor_the_situation/4924",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Israeli Strike Kills Two in South Beirut Lebanon An Israeli airstrike targeted an area in south Beirut, resulting in two fatalities. The incident adds to ongoing military exchanges in the region amid heightened tensions. \ud83d\udccd South Beirut, Lebanon \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T05:56:19+00:00",
+            "has_media": true
+        },
+        {
+            "id": "0f4d0b6276f77e9d90b980d6a8987ad5",
+            "url": "https://t.me/aljazeeraglobal/131134",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Zinedine Zidane to take over as France coach this summer: Report \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:50:20+00:00",
+            "has_media": false
+        },
+        {
+            "id": "aa5a5e513453c5eb151c817f1f75057a",
+            "url": "https://t.me/aljazeeraglobal/131133",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Trump administration deploys ICE agents at airports across US \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:49:55+00:00",
+            "has_media": false
+        },
+        {
+            "id": "d3c4281b9b8028b989ac9bbbc3af200d",
+            "url": "https://t.me/aljazeeraglobal/131132",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Israel bombs petrol station in southern Lebanon \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:49:33+00:00",
+            "has_media": false
+        },
+        {
+            "id": "261f43154c2c00d3affb917eaac0e1c9",
+            "url": "https://t.me/conflictstracker/3865",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf6 \ud83c\uddf8\ud83c\uddfe Rockets fired from Mosul, Iraq are targeting a U.S. military base in northeastern Syria, Reuters reports.",
+            "timestamp": "2026-03-23T18:36:53+00:00",
+            "has_media": false
+        },
+        {
+            "id": "3e20f383d9ab7414e2128497afc6cbc0",
+            "url": "https://t.me/conflictstracker/3864",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#MiddleEastConflict \ud83c\uddfa\ud83c\uddf8 The U.S. Embassy in Muscat has issued a nationwide shelter-in-place alert across Oman citing \u201congoing activity.\u201d",
+            "timestamp": "2026-03-23T17:55:12+00:00",
+            "has_media": true
+        },
+        {
+            "id": "bebd10b6b3ffa2f805cd329949222ece",
+            "url": "https://t.me/conflictstracker/3863",
+            "source": "telegram",
+            "channel": "ConflictsTracker",
+            "text": "#RussiaUkraineWar \ud83c\uddfa\ud83c\udde6 \ud83c\uddf7\ud83c\uddfa Ukraine targets Russia\u2019s largest oil port.",
+            "timestamp": "2026-03-23T17:51:16+00:00",
+            "has_media": true
+        },
+        {
+            "id": "a63793b2870a42627ca52f9e099cd9bc",
+            "url": "https://t.me/aljazeeraglobal/131131",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English US markets surge after Trump announces he\u2019s postponing strikes on Iran \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:49:18+00:00",
+            "has_media": false
+        },
+        {
+            "id": "f02971fe7ca55ec262f7da8093dbc072",
+            "url": "https://t.me/aljazeeraglobal/131130",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Large pro-government rallies held in Tehran \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:48:59+00:00",
+            "has_media": false
+        },
+        {
+            "id": "24de4e24218881b0f112a4a7e331617b",
+            "url": "https://t.me/aljazeeraglobal/131129",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English \u2018Israel has been given a licence to torture Palestinians\u2019 \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:48:42+00:00",
+            "has_media": false
+        },
+        {
+            "id": "b88bea06c3aa8ae10bc101542767c936",
+            "url": "https://t.me/terroralarm/28411",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf1 \ud83c\uddfa\ud83c\uddf8 Every so often Washington slips and returns to the table with the irreconcilables. Thankfully one steadfast ally always steps up - neutralizing the danger at its source before they can dictate terms under the table.",
+            "timestamp": "2026-03-23T16:20:36+00:00",
+            "has_media": true
+        },
+        {
+            "id": "76a9508997c6c806cd6a7ff2e2242f37",
+            "url": "https://t.me/terroralarm/28410",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf7 Trump: \"Iran called. I didn't call. They called. They want to make a deal.\"",
+            "timestamp": "2026-03-23T16:01:27+00:00",
+            "has_media": false
+        },
+        {
+            "id": "392bfa7abd77dffbb50641b755f60024",
+            "url": "https://t.me/terroralarm/28409",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf7 IRGC appoints Mohammad Marandi as new spokesperson.",
+            "timestamp": "2026-03-23T13:21:52+00:00",
+            "has_media": true
+        },
+        {
+            "id": "ad6b340fe73495b5eee18e1c34b03d64",
+            "url": "https://t.me/terroralarm/28408",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\"Alas! You great city, you mighty city... for in a single hour your judgment has come.\" (Rev 18:10)",
+            "timestamp": "2026-03-23T12:51:16+00:00",
+            "has_media": true
+        },
+        {
+            "id": "63c3e043fae14b124f2936fedd0e9e78",
+            "url": "https://t.me/terroralarm/28407",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddee\ud83c\uddf1 Today in Iran, Israel is teaching the Free World how to fight terrorists and win an unprovoked war.",
+            "timestamp": "2026-03-23T12:50:24+00:00",
+            "has_media": false
+        },
+        {
+            "id": "3d3df7588b1d68aeff8302af401e016e",
+            "url": "https://t.me/aljazeeraglobal/131128",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Texas oil refinery in flames after explosion \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:48:19+00:00",
+            "has_media": false
+        },
+        {
+            "id": "f94f51f3e7e134996aba119e42a4d692",
+            "url": "https://t.me/aljazeeraglobal/131127",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Survivors pulled from wreckage of Colombian air force plane \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:47:56+00:00",
+            "has_media": false
+        },
+        {
+            "id": "dcdbabce846d65ed25e4b2a2f8f7b2c9",
+            "url": "https://t.me/terroralarm/28406",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf7 WHY DID TRUMP HALT IRAN STRIKES President Trump has officially postponed all military strikes on Iranian power plants and energy infrastructure for a 5-day period. Citing \"very good and productive conversations\" over the last 48 hours, the President stated he is seeking a \"complete and total resolution of our hostilities in the Middle East.\" Inside the Deal: Our sources indicate a former reformist Iranian president, close to the new Supreme Leader, initiated contact with a promise: \"meet Trump\u2019s demands on Hormuz reopening and returning to nuclear negotiations\" in exchange for calling off the infrastructure attack.",
+            "timestamp": "2026-03-23T12:12:33+00:00",
+            "has_media": true
+        },
+        {
+            "id": "e03e3d983dd606094b123b3fedf4c571",
+            "url": "https://t.me/terroralarm/28405",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83c\uddee\ud83c\uddf7 PUBLIC SAFETY ADVISORY: STAY CLEAR OF ENERGY SITES  We strongly advise Iranian civilians to avoid loitering near or entering the perimeter of the following high-capacity power plants.   1. Damavand Power Plant (Tehran) 2. Kerman Power Plant 3. Ramin\u2026",
+            "timestamp": "2026-03-23T11:23:09+00:00",
+            "has_media": false
+        },
+        {
+            "id": "049a30a1a6631719d97ab8f977cadce1",
+            "url": "https://t.me/terroralarm/28404",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83d\udea8 \ud83d\udea8 \ud83c\uddee\ud83c\uddf7 PUBLIC SAFETY ADVISORY: STAY CLEAR OF ENERGY SITES We strongly advise Iranian civilians to avoid loitering near or entering the perimeter of the following high-capacity power plants. 1. Damavand Power Plant (Tehran) 2. Kerman Power Plant 3. Ramin Power Plant (Ahvaz) 4. Shahid Salimi Power Plant (Mazandaran) 5. Bandar Abbas Power Plant \u0627\u06cc\u0631\u0627\u0646\u06cc\u0627\u0646 \u0639\u0632\u06cc\u0632. \u0627\u0632 \u0627\u06cc\u0646 \u0645\u06a9\u0627\u0646\u0647\u0627 \u0641\u0627\u0635\u0644\u0647 \u0628\u06af\u06cc\u0631\u06cc\u062f. 1 - \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u062f\u0645\u0627\u0648\u0646\u062f (\u062a\u0647\u0631\u0627\u0646) 2 - \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u06a9\u0631\u0645\u0627\u0646 3 - \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u0631\u0627\u0645\u06cc\u0646 \u0627\u0647\u0648\u0627\u0632 4 - \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u0634\u0647\u06cc\u062f \u0633\u0644\u06cc\u0645\u06cc (\u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646) 5 - \u0646\u06cc\u0631\u0648\u06af\u0627\u0647 \u0628\u0646\u062f\u0631\u0639\u0628\u0627\u0633",
+            "timestamp": "2026-03-23T11:20:13+00:00",
+            "has_media": false
+        },
+        {
+            "id": "868df6b8da472ee32bd82e53de7f9d5e",
+            "url": "https://t.me/aljazeeraglobal/131126",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Israeli settlers vandalise school, raise Israeli flag in occupied West Bank \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:47:28+00:00",
+            "has_media": false
+        },
+        {
+            "id": "3426e7163a020b0546d19d0a5f038af1",
+            "url": "https://t.me/aljazeeraglobal/131125",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Iran war live: Tehran says Trump\u2019s peace talk claims are \u2018fake news\u2019 \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:47:11+00:00",
+            "has_media": false
+        },
+        {
+            "id": "ac4fa804474be1eef6e7497ebaee99cb",
+            "url": "https://t.me/terroralarm/28403",
+            "source": "telegram",
+            "channel": "terroralarm",
+            "text": "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 \ud83c\uddf7\ud83c\uddfa While the US just issued a temporary waiver letting Russia sell stranded oil amid soaring prices, Ukraine just struck Russia\u2019s largest Baltic Sea oil port -Primorsk to cut off Putin\u2019s windfall revenue and starve his war machine.",
+            "timestamp": "2026-03-23T11:06:48+00:00",
+            "has_media": true
+        },
+        {
+            "id": "6133ead8d0438da5cf24e5fcf6e72678",
+            "url": "https://t.me/aljazeeraglobal/131124",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Trump says Iran \u2018wants peace\u2019 after US military did \u2018great job\u2019 \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:46:44+00:00",
+            "has_media": false
+        },
+        {
+            "id": "5558eb2207bc48215dd42e10d8976b48",
+            "url": "https://t.me/aljazeeraglobal/131123",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Macron says Lebanon\u2019s fight is \u2018just\u2019 amid escalating attacks by Israel \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:46:19+00:00",
+            "has_media": false
+        },
+        {
+            "id": "c8d715ace77802ed81eee58147fc0097",
+            "url": "https://t.me/aljazeeraglobal/131122",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English UN expert says world has given Israel \u2018licence to torture Palestinians\u2019 \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:45:57+00:00",
+            "has_media": false
+        },
+        {
+            "id": "8146b796eff62a7e3c5316f05bafbde0",
+            "url": "https://t.me/aljazeeraglobal/131121",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Have Israel, the US and Iran violated international law? \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:45:34+00:00",
+            "has_media": false
+        },
+        {
+            "id": "ac9e08fe923231327c022845be6fe4c5",
+            "url": "https://t.me/aljazeeraglobal/131120",
+            "source": "telegram",
+            "channel": "aljazeeraglobal",
+            "text": "Al Jazeera English Smotrich urges Israel to annex southern Lebanon as assault intensifies \u2796 @aljazeeraglobal \u2796",
+            "timestamp": "2026-03-24T05:45:12+00:00",
+            "has_media": false
+        },
+        {
+            "id": "69a7b03de5a22f3bfc44b1533a71f436",
+            "url": "https://t.me/monitor_the_situation/4923",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Philippines Faces Jet Fuel Shortage from Iran War President Ferdinand Marcos warns of potential plane groundings due to jet fuel shortages caused by the ongoing war on Iran. The shortage threatens aviation operations in Manila amid global supply disruptions. \ud83d\udccd Manila, Philippines \ud83d\udcc8 Economic \u00b7 S2 - NOTABLE \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T05:42:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "71be54a333daeff7bce0755b1493c411",
+            "url": "https://t.me/monitor_the_situation/4922",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Iranian Missile Attack Injures Civilians in Jerusalem Israel Israeli emergency services are treating injured individuals following an Iranian missile attack, amid ongoing exchanges of fire between Israel and Iran. The incident adds to heightened tensions in the region with multiple missile launches reported recently. \ud83d\udccd Jerusalem, Israel \u2694\ufe0f Conflict \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T05:15:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "f92f1e4719a644fd01c3df0203d6a523",
+            "url": "https://t.me/monitor_the_situation/4921",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe0 Iran Claims Full Control Over Strait of Hormuz Spokesman for Iran's Khatam al-Anbiya Central Headquarters asserts complete Iranian control over the Strait of Hormuz, denying external powers the right to interfere amid ongoing regional tensions. This statement comes as zombie ships have been reported in the area. \ud83d\udccd Strait of Hormuz, International Waters \ud83c\udfdb\ufe0f Political \u00b7 S3 - SIGNIFICANT \ud83d\udce1 @AJENews View on Monitor The Situation",
+            "timestamp": "2026-03-24T05:15:40+00:00",
+            "has_media": true
+        },
+        {
+            "id": "9537afbf2bf0f04749a982c148ec283f",
+            "url": "https://t.me/monitor_the_situation/4920",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Indian Navy Escorts LPG Tankers in Gulf of Oman Indian Navy warships are escorting Indian-flagged LPG tankers JAG VASANT and PINE GAS en route from the Persian Gulf through the Gulf of Oman amid regional tensions. The operation provides security support in the volatile maritime area. \ud83d\udccd Gulf of Oman, International Waters \ud83c\udfdb\ufe0f Political \u00b7 S2 - NOTABLE \ud83d\udce1 @detresfa_ View on Monitor The Situation",
+            "timestamp": "2026-03-24T05:10:47+00:00",
+            "has_media": true
+        },
+        {
+            "id": "4d3e47e63f7a349e4d81615b5f3715ca",
+            "url": "https://t.me/monitor_the_situation/4919",
+            "source": "telegram",
+            "channel": "monitor_the_situation",
+            "text": "\ud83d\udfe1 Jet Crash Kills Two Pilots in Dubai, United Arab Emirates A jet crash in Dubai killed both pilots and injured dozens of people, with the cockpit mangled and a fire truck overturned at the scene. Emergency services responded immediately to the aviation incident. \ud83d\udccd Dubai, United Arab Emirates \ud83c\udf0b Disaster \u00b7 S2 - NOTABLE \ud83d\udce1 @gulf_news View on Monitor The Situation",
+            "timestamp": "2026-03-24T04:54:29+00:00",
+            "has_media": true
+        }
+    ],
+    "news": [],
+    "settings": {
+        "telegram_channels": [
+            "monitor_the_situation",
+            "terroralarm",
+            "ConflictsTracker",
+            "aljazeeraglobal",
+            "OSINTWarfare",
+            "indian_osint",
+            "dgrp_news",
+            "WIONews",
+            "TIMESNOW",
+            "ANI",
+            "ndtv",
+            "republicworld",
+            "zeenews",
+            "abpnewstv",
+            "timesofindia",
+            "the_hindu",
+            "indiatvnews",
+            "news18"
+        ]
+    }
+}
